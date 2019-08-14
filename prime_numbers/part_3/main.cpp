@@ -46,6 +46,7 @@ struct T_HISTOGRAM_SORT_STRUCT {
 std::ofstream fileHistogram;
 std::ofstream fileSumsSymmetry;
 std::ofstream fileSumsSymmetry2;
+std::ofstream filePython;
 
 // helpers
 int charToInt(char c) {
@@ -261,6 +262,7 @@ int main() {
     fileHistogram.open("./data/histogram.txt");
     fileSumsSymmetry.open("./data/sums_symmetry.txt");
     fileSumsSymmetry2.open("./data/sums_symmetry_2.txt");
+    filePython.open("./data/python_data.txt");
 
     // start
     T_NUM_VEC allFound;
@@ -375,6 +377,8 @@ int main() {
         fileSumsSymmetry2 << createCell(3, "SUM");
         fileSumsSymmetry2 << createCell(2, std::to_string(symmetry.sum)) << std::endl;
         fileSumsSymmetry2 << "---------------------" << std::endl;
+
+        filePython << std::to_string(arr[symmetry.start].angle) << "," << std::to_string(arr[symmetry.end].angle) << std::endl;
     }
 
     fileSumsSymmetry.close();
