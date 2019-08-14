@@ -1,0 +1,11640 @@
+ANGLE		-986	
+START ANGLE	-992	
+END ANGLE	-980	
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		-984	
+START ANGLE	-988	
+END ANGLE	-980	
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		-979	
+START ANGLE	-985	
+END ANGLE	-973	
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		-978	
+START ANGLE	-979	
+END ANGLE	-977	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-975	
+START ANGLE	-997	
+END ANGLE	-953	
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		-974	
+START ANGLE	-994	
+END ANGLE	-954	
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		-973	
+START ANGLE	-996	
+END ANGLE	-950	
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		-972	
+START ANGLE	-981	
+END ANGLE	-963	
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		-971	
+START ANGLE	-974	
+END ANGLE	-968	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-970	
+START ANGLE	-971	
+END ANGLE	-969	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-968	
+START ANGLE	-983	
+END ANGLE	-953	
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		-967	
+START ANGLE	-984	
+END ANGLE	-950	
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		-965	
+START ANGLE	-993	
+END ANGLE	-937	
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		-964	
+START ANGLE	-970	
+END ANGLE	-958	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-963	
+START ANGLE	-974	
+END ANGLE	-952	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-962	
+START ANGLE	-984	
+END ANGLE	-940	
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		-961	
+START ANGLE	-979	
+END ANGLE	-943	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-960	
+START ANGLE	-961	
+END ANGLE	-959	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-959	
+START ANGLE	-980	
+END ANGLE	-938	
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		-957	
+START ANGLE	-983	
+END ANGLE	-931	
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		-956	
+START ANGLE	-961	
+END ANGLE	-951	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-955	
+START ANGLE	-959	
+END ANGLE	-951	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-954	
+START ANGLE	-993	
+END ANGLE	-915	
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		-952	
+START ANGLE	-955	
+END ANGLE	-949	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-951	
+START ANGLE	-963	
+END ANGLE	-939	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-950	
+START ANGLE	-956	
+END ANGLE	-944	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-949	
+START ANGLE	-982	
+END ANGLE	-916	
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		-948	
+START ANGLE	-968	
+END ANGLE	-928	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-946	
+START ANGLE	-967	
+END ANGLE	-925	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-945	
+START ANGLE	-950	
+END ANGLE	-940	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-944	
+START ANGLE	-977	
+END ANGLE	-911	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-942	
+START ANGLE	-949	
+END ANGLE	-935	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-941	
+START ANGLE	-960	
+END ANGLE	-922	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-940	
+START ANGLE	-952	
+END ANGLE	-928	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-939	
+START ANGLE	-944	
+END ANGLE	-934	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-938	
+START ANGLE	-979	
+END ANGLE	-897	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-937	
+START ANGLE	-942	
+END ANGLE	-932	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-936	
+START ANGLE	-960	
+END ANGLE	-912	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-935	
+START ANGLE	-972	
+END ANGLE	-898	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-934	
+START ANGLE	-945	
+END ANGLE	-923	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-933	
+START ANGLE	-977	
+END ANGLE	-889	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-931	
+START ANGLE	-946	
+END ANGLE	-916	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-928	
+START ANGLE	-946	
+END ANGLE	-910	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-927	
+START ANGLE	-933	
+END ANGLE	-921	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-926	
+START ANGLE	-937	
+END ANGLE	-915	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-925	
+START ANGLE	-988	
+END ANGLE	-862	
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		-924	
+START ANGLE	-960	
+END ANGLE	-888	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-923	
+START ANGLE	-927	
+END ANGLE	-919	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-922	
+START ANGLE	-973	
+END ANGLE	-871	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-921	
+START ANGLE	-933	
+END ANGLE	-909	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-920	
+START ANGLE	-936	
+END ANGLE	-904	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-919	
+START ANGLE	-925	
+END ANGLE	-913	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-918	
+START ANGLE	-941	
+END ANGLE	-895	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-917	
+START ANGLE	-922	
+END ANGLE	-912	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-916	
+START ANGLE	-930	
+END ANGLE	-902	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-915	
+START ANGLE	-922	
+END ANGLE	-908	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-914	
+START ANGLE	-930	
+END ANGLE	-898	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-913	
+START ANGLE	-916	
+END ANGLE	-910	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-912	
+START ANGLE	-933	
+END ANGLE	-891	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-911	
+START ANGLE	-937	
+END ANGLE	-885	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-910	
+START ANGLE	-912	
+END ANGLE	-908	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-909	
+START ANGLE	-917	
+END ANGLE	-901	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-908	
+START ANGLE	-917	
+END ANGLE	-899	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-907	
+START ANGLE	-911	
+END ANGLE	-903	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-906	
+START ANGLE	-921	
+END ANGLE	-891	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-905	
+START ANGLE	-922	
+END ANGLE	-888	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-904	
+START ANGLE	-911	
+END ANGLE	-897	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-903	
+START ANGLE	-916	
+END ANGLE	-890	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-902	
+START ANGLE	-912	
+END ANGLE	-892	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-901	
+START ANGLE	-961	
+END ANGLE	-841	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-899	
+START ANGLE	-959	
+END ANGLE	-839	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-898	
+START ANGLE	-908	
+END ANGLE	-888	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-897	
+START ANGLE	-910	
+END ANGLE	-884	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-896	
+START ANGLE	-903	
+END ANGLE	-889	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-895	
+START ANGLE	-912	
+END ANGLE	-878	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-894	
+START ANGLE	-909	
+END ANGLE	-879	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-893	
+START ANGLE	-897	
+END ANGLE	-889	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-892	
+START ANGLE	-901	
+END ANGLE	-883	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-891	
+START ANGLE	-899	
+END ANGLE	-883	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-890	
+START ANGLE	-892	
+END ANGLE	-888	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-889	
+START ANGLE	-915	
+END ANGLE	-863	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-888	
+START ANGLE	-909	
+END ANGLE	-867	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-887	
+START ANGLE	-890	
+END ANGLE	-884	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-886	
+START ANGLE	-902	
+END ANGLE	-870	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-885	
+START ANGLE	-892	
+END ANGLE	-878	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-884	
+START ANGLE	-898	
+END ANGLE	-870	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-883	
+START ANGLE	-888	
+END ANGLE	-878	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-882	
+START ANGLE	-905	
+END ANGLE	-859	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-881	
+START ANGLE	-887	
+END ANGLE	-875	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-880	
+START ANGLE	-896	
+END ANGLE	-864	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-879	
+START ANGLE	-891	
+END ANGLE	-867	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-878	
+START ANGLE	-929	
+END ANGLE	-827	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-877	
+START ANGLE	-881	
+END ANGLE	-873	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-876	
+START ANGLE	-912	
+END ANGLE	-840	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-875	
+START ANGLE	-938	
+END ANGLE	-812	
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		-874	
+START ANGLE	-885	
+END ANGLE	-863	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-873	
+START ANGLE	-879	
+END ANGLE	-867	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-872	
+START ANGLE	-890	
+END ANGLE	-854	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-871	
+START ANGLE	-943	
+END ANGLE	-799	
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		-870	
+START ANGLE	-939	
+END ANGLE	-801	
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		-869	
+START ANGLE	-884	
+END ANGLE	-854	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-868	
+START ANGLE	-958	
+END ANGLE	-778	
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		-867	
+START ANGLE	-911	
+END ANGLE	-823	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-866	
+START ANGLE	-877	
+END ANGLE	-855	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-865	
+START ANGLE	-902	
+END ANGLE	-828	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-864	
+START ANGLE	-888	
+END ANGLE	-840	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-863	
+START ANGLE	-868	
+END ANGLE	-858	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-862	
+START ANGLE	-903	
+END ANGLE	-821	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-861	
+START ANGLE	-866	
+END ANGLE	-856	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-860	
+START ANGLE	-872	
+END ANGLE	-848	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-859	
+START ANGLE	-878	
+END ANGLE	-840	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-858	
+START ANGLE	-865	
+END ANGLE	-851	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-857	
+START ANGLE	-947	
+END ANGLE	-767	
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		-856	
+START ANGLE	-889	
+END ANGLE	-823	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-855	
+START ANGLE	-860	
+END ANGLE	-850	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-854	
+START ANGLE	-875	
+END ANGLE	-833	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-853	
+START ANGLE	-943	
+END ANGLE	-763	
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		-852	
+START ANGLE	-872	
+END ANGLE	-832	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-851	
+START ANGLE	-884	
+END ANGLE	-818	
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		-850	
+START ANGLE	-856	
+END ANGLE	-844	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-849	
+START ANGLE	-861	
+END ANGLE	-837	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-848	
+START ANGLE	-851	
+END ANGLE	-845	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-847	
+START ANGLE	-897	
+END ANGLE	-797	
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		-846	
+START ANGLE	-885	
+END ANGLE	-807	
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		-845	
+START ANGLE	-849	
+END ANGLE	-841	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-844	
+START ANGLE	-849	
+END ANGLE	-839	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-843	
+START ANGLE	-869	
+END ANGLE	-817	
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		-842	
+START ANGLE	-932	
+END ANGLE	-752	
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		-841	
+START ANGLE	-862	
+END ANGLE	-820	
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		-840	
+START ANGLE	-841	
+END ANGLE	-839	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-839	
+START ANGLE	-857	
+END ANGLE	-821	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-838	
+START ANGLE	-860	
+END ANGLE	-816	
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		-837	
+START ANGLE	-848	
+END ANGLE	-826	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-836	
+START ANGLE	-842	
+END ANGLE	-830	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-835	
+START ANGLE	-863	
+END ANGLE	-807	
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		-834	
+START ANGLE	-888	
+END ANGLE	-780	
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		-833	
+START ANGLE	-850	
+END ANGLE	-816	
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		-832	
+START ANGLE	-847	
+END ANGLE	-817	
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		-831	
+START ANGLE	-862	
+END ANGLE	-800	
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		-830	
+START ANGLE	-831	
+END ANGLE	-829	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-829	
+START ANGLE	-832	
+END ANGLE	-826	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-828	
+START ANGLE	-837	
+END ANGLE	-819	
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		-827	
+START ANGLE	-850	
+END ANGLE	-804	
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		-826	
+START ANGLE	-846	
+END ANGLE	-806	
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		-825	
+START ANGLE	-847	
+END ANGLE	-803	
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		-824	
+START ANGLE	-898	
+END ANGLE	-750	
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		-823	
+START ANGLE	-910	
+END ANGLE	-736	
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		-822	
+START ANGLE	-823	
+END ANGLE	-821	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-821	
+START ANGLE	-827	
+END ANGLE	-815	
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		-820	
+START ANGLE	-865	
+END ANGLE	-775	
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		-819	
+START ANGLE	-837	
+END ANGLE	-801	
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		-818	
+START ANGLE	-848	
+END ANGLE	-788	
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		-817	
+START ANGLE	-865	
+END ANGLE	-769	
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		-816	
+START ANGLE	-820	
+END ANGLE	-812	
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		-815	
+START ANGLE	-849	
+END ANGLE	-781	
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		-814	
+START ANGLE	-820	
+END ANGLE	-808	
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		-813	
+START ANGLE	-832	
+END ANGLE	-794	
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		-812	
+START ANGLE	-892	
+END ANGLE	-732	
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		-811	
+START ANGLE	-823	
+END ANGLE	-799	
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		-809	
+START ANGLE	-821	
+END ANGLE	-797	
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		-808	
+START ANGLE	-888	
+END ANGLE	-728	
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		-807	
+START ANGLE	-826	
+END ANGLE	-788	
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		-806	
+START ANGLE	-812	
+END ANGLE	-800	
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		-805	
+START ANGLE	-839	
+END ANGLE	-771	
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		-804	
+START ANGLE	-808	
+END ANGLE	-800	
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		-803	
+START ANGLE	-851	
+END ANGLE	-755	
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		-802	
+START ANGLE	-832	
+END ANGLE	-772	
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		-801	
+START ANGLE	-819	
+END ANGLE	-783	
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		-800	
+START ANGLE	-845	
+END ANGLE	-755	
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		-799	
+START ANGLE	-805	
+END ANGLE	-793	
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		-798	
+START ANGLE	-799	
+END ANGLE	-797	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-797	
+START ANGLE	-884	
+END ANGLE	-710	
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		-796	
+START ANGLE	-870	
+END ANGLE	-722	
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		-795	
+START ANGLE	-817	
+END ANGLE	-773	
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		-794	
+START ANGLE	-814	
+END ANGLE	-774	
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		-793	
+START ANGLE	-816	
+END ANGLE	-770	
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		-792	
+START ANGLE	-801	
+END ANGLE	-783	
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		-791	
+START ANGLE	-794	
+END ANGLE	-788	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-790	
+START ANGLE	-791	
+END ANGLE	-789	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-789	
+START ANGLE	-820	
+END ANGLE	-758	
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		-788	
+START ANGLE	-803	
+END ANGLE	-773	
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		-787	
+START ANGLE	-804	
+END ANGLE	-770	
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		-786	
+START ANGLE	-840	
+END ANGLE	-732	
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		-785	
+START ANGLE	-813	
+END ANGLE	-757	
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		-784	
+START ANGLE	-790	
+END ANGLE	-778	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-783	
+START ANGLE	-794	
+END ANGLE	-772	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-782	
+START ANGLE	-804	
+END ANGLE	-760	
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		-781	
+START ANGLE	-799	
+END ANGLE	-763	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-780	
+START ANGLE	-781	
+END ANGLE	-779	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-779	
+START ANGLE	-800	
+END ANGLE	-758	
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		-778	
+START ANGLE	-868	
+END ANGLE	-688	
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		-777	
+START ANGLE	-803	
+END ANGLE	-751	
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		-776	
+START ANGLE	-781	
+END ANGLE	-771	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-775	
+START ANGLE	-779	
+END ANGLE	-771	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-774	
+START ANGLE	-813	
+END ANGLE	-735	
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		-773	
+START ANGLE	-823	
+END ANGLE	-723	
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		-772	
+START ANGLE	-775	
+END ANGLE	-769	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-771	
+START ANGLE	-783	
+END ANGLE	-759	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-770	
+START ANGLE	-776	
+END ANGLE	-764	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-769	
+START ANGLE	-802	
+END ANGLE	-736	
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		-768	
+START ANGLE	-788	
+END ANGLE	-748	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-767	
+START ANGLE	-857	
+END ANGLE	-677	
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		-766	
+START ANGLE	-787	
+END ANGLE	-745	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-765	
+START ANGLE	-770	
+END ANGLE	-760	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-764	
+START ANGLE	-797	
+END ANGLE	-731	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-763	
+START ANGLE	-853	
+END ANGLE	-673	
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		-762	
+START ANGLE	-769	
+END ANGLE	-755	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-761	
+START ANGLE	-780	
+END ANGLE	-742	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-760	
+START ANGLE	-772	
+END ANGLE	-748	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-759	
+START ANGLE	-764	
+END ANGLE	-754	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-758	
+START ANGLE	-799	
+END ANGLE	-717	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-757	
+START ANGLE	-762	
+END ANGLE	-752	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-756	
+START ANGLE	-780	
+END ANGLE	-732	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-755	
+START ANGLE	-792	
+END ANGLE	-718	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-754	
+START ANGLE	-765	
+END ANGLE	-743	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-753	
+START ANGLE	-797	
+END ANGLE	-709	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-752	
+START ANGLE	-842	
+END ANGLE	-662	
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		-751	
+START ANGLE	-766	
+END ANGLE	-736	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-750	
+START ANGLE	-819	
+END ANGLE	-681	
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		-749	
+START ANGLE	-821	
+END ANGLE	-677	
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		-748	
+START ANGLE	-766	
+END ANGLE	-730	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-747	
+START ANGLE	-753	
+END ANGLE	-741	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-746	
+START ANGLE	-757	
+END ANGLE	-735	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-745	
+START ANGLE	-808	
+END ANGLE	-682	
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		-744	
+START ANGLE	-780	
+END ANGLE	-708	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-743	
+START ANGLE	-747	
+END ANGLE	-739	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-742	
+START ANGLE	-793	
+END ANGLE	-691	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-741	
+START ANGLE	-753	
+END ANGLE	-729	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-740	
+START ANGLE	-756	
+END ANGLE	-724	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-739	
+START ANGLE	-745	
+END ANGLE	-733	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-738	
+START ANGLE	-761	
+END ANGLE	-715	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-737	
+START ANGLE	-742	
+END ANGLE	-732	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-736	
+START ANGLE	-750	
+END ANGLE	-722	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-735	
+START ANGLE	-742	
+END ANGLE	-728	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-734	
+START ANGLE	-750	
+END ANGLE	-718	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-733	
+START ANGLE	-736	
+END ANGLE	-730	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-732	
+START ANGLE	-753	
+END ANGLE	-711	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-731	
+START ANGLE	-757	
+END ANGLE	-705	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-730	
+START ANGLE	-732	
+END ANGLE	-728	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-729	
+START ANGLE	-737	
+END ANGLE	-721	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-728	
+START ANGLE	-737	
+END ANGLE	-719	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-727	
+START ANGLE	-731	
+END ANGLE	-723	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-726	
+START ANGLE	-741	
+END ANGLE	-711	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-725	
+START ANGLE	-742	
+END ANGLE	-708	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-724	
+START ANGLE	-731	
+END ANGLE	-717	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-723	
+START ANGLE	-736	
+END ANGLE	-710	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-722	
+START ANGLE	-732	
+END ANGLE	-712	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-721	
+START ANGLE	-781	
+END ANGLE	-661	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-719	
+START ANGLE	-779	
+END ANGLE	-659	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-718	
+START ANGLE	-728	
+END ANGLE	-708	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-717	
+START ANGLE	-730	
+END ANGLE	-704	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-716	
+START ANGLE	-723	
+END ANGLE	-709	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-715	
+START ANGLE	-732	
+END ANGLE	-698	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-714	
+START ANGLE	-729	
+END ANGLE	-699	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-713	
+START ANGLE	-717	
+END ANGLE	-709	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-712	
+START ANGLE	-721	
+END ANGLE	-703	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-711	
+START ANGLE	-719	
+END ANGLE	-703	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-710	
+START ANGLE	-712	
+END ANGLE	-708	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-709	
+START ANGLE	-735	
+END ANGLE	-683	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-708	
+START ANGLE	-729	
+END ANGLE	-687	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-707	
+START ANGLE	-710	
+END ANGLE	-704	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-706	
+START ANGLE	-722	
+END ANGLE	-690	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-705	
+START ANGLE	-712	
+END ANGLE	-698	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-704	
+START ANGLE	-718	
+END ANGLE	-690	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-703	
+START ANGLE	-708	
+END ANGLE	-698	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-702	
+START ANGLE	-725	
+END ANGLE	-679	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-701	
+START ANGLE	-707	
+END ANGLE	-695	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-700	
+START ANGLE	-716	
+END ANGLE	-684	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-699	
+START ANGLE	-711	
+END ANGLE	-687	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-698	
+START ANGLE	-749	
+END ANGLE	-647	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-697	
+START ANGLE	-701	
+END ANGLE	-693	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-696	
+START ANGLE	-732	
+END ANGLE	-660	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-695	
+START ANGLE	-758	
+END ANGLE	-632	
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		-694	
+START ANGLE	-705	
+END ANGLE	-683	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-693	
+START ANGLE	-699	
+END ANGLE	-687	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-692	
+START ANGLE	-710	
+END ANGLE	-674	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-691	
+START ANGLE	-763	
+END ANGLE	-619	
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		-690	
+START ANGLE	-759	
+END ANGLE	-621	
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		-689	
+START ANGLE	-704	
+END ANGLE	-674	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-688	
+START ANGLE	-778	
+END ANGLE	-598	
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		-687	
+START ANGLE	-731	
+END ANGLE	-643	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-686	
+START ANGLE	-697	
+END ANGLE	-675	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-685	
+START ANGLE	-722	
+END ANGLE	-648	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-684	
+START ANGLE	-708	
+END ANGLE	-660	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-683	
+START ANGLE	-688	
+END ANGLE	-678	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-682	
+START ANGLE	-723	
+END ANGLE	-641	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-681	
+START ANGLE	-686	
+END ANGLE	-676	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-680	
+START ANGLE	-692	
+END ANGLE	-668	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-679	
+START ANGLE	-698	
+END ANGLE	-660	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-678	
+START ANGLE	-685	
+END ANGLE	-671	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-677	
+START ANGLE	-767	
+END ANGLE	-587	
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		-676	
+START ANGLE	-709	
+END ANGLE	-643	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-675	
+START ANGLE	-680	
+END ANGLE	-670	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-674	
+START ANGLE	-695	
+END ANGLE	-653	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-673	
+START ANGLE	-763	
+END ANGLE	-583	
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		-672	
+START ANGLE	-692	
+END ANGLE	-652	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-671	
+START ANGLE	-704	
+END ANGLE	-638	
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		-670	
+START ANGLE	-676	
+END ANGLE	-664	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-669	
+START ANGLE	-681	
+END ANGLE	-657	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-668	
+START ANGLE	-671	
+END ANGLE	-665	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-667	
+START ANGLE	-717	
+END ANGLE	-617	
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		-666	
+START ANGLE	-705	
+END ANGLE	-627	
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		-665	
+START ANGLE	-669	
+END ANGLE	-661	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-664	
+START ANGLE	-669	
+END ANGLE	-659	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-663	
+START ANGLE	-689	
+END ANGLE	-637	
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		-662	
+START ANGLE	-752	
+END ANGLE	-572	
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		-661	
+START ANGLE	-682	
+END ANGLE	-640	
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		-660	
+START ANGLE	-661	
+END ANGLE	-659	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-659	
+START ANGLE	-677	
+END ANGLE	-641	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-658	
+START ANGLE	-680	
+END ANGLE	-636	
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		-657	
+START ANGLE	-668	
+END ANGLE	-646	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-656	
+START ANGLE	-662	
+END ANGLE	-650	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-655	
+START ANGLE	-683	
+END ANGLE	-627	
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		-654	
+START ANGLE	-708	
+END ANGLE	-600	
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		-653	
+START ANGLE	-670	
+END ANGLE	-636	
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		-652	
+START ANGLE	-667	
+END ANGLE	-637	
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		-651	
+START ANGLE	-682	
+END ANGLE	-620	
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		-650	
+START ANGLE	-651	
+END ANGLE	-649	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-649	
+START ANGLE	-652	
+END ANGLE	-646	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-648	
+START ANGLE	-657	
+END ANGLE	-639	
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		-647	
+START ANGLE	-670	
+END ANGLE	-624	
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		-646	
+START ANGLE	-666	
+END ANGLE	-626	
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		-645	
+START ANGLE	-667	
+END ANGLE	-623	
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		-644	
+START ANGLE	-718	
+END ANGLE	-570	
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		-643	
+START ANGLE	-730	
+END ANGLE	-556	
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		-642	
+START ANGLE	-643	
+END ANGLE	-641	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-641	
+START ANGLE	-647	
+END ANGLE	-635	
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		-640	
+START ANGLE	-685	
+END ANGLE	-595	
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		-639	
+START ANGLE	-657	
+END ANGLE	-621	
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		-638	
+START ANGLE	-668	
+END ANGLE	-608	
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		-637	
+START ANGLE	-685	
+END ANGLE	-589	
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		-636	
+START ANGLE	-640	
+END ANGLE	-632	
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		-635	
+START ANGLE	-669	
+END ANGLE	-601	
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		-634	
+START ANGLE	-640	
+END ANGLE	-628	
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		-633	
+START ANGLE	-652	
+END ANGLE	-614	
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		-632	
+START ANGLE	-712	
+END ANGLE	-552	
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		-631	
+START ANGLE	-643	
+END ANGLE	-619	
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		-629	
+START ANGLE	-641	
+END ANGLE	-617	
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		-628	
+START ANGLE	-708	
+END ANGLE	-548	
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		-627	
+START ANGLE	-646	
+END ANGLE	-608	
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		-626	
+START ANGLE	-632	
+END ANGLE	-620	
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		-625	
+START ANGLE	-659	
+END ANGLE	-591	
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		-624	
+START ANGLE	-628	
+END ANGLE	-620	
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		-623	
+START ANGLE	-671	
+END ANGLE	-575	
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		-622	
+START ANGLE	-652	
+END ANGLE	-592	
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		-621	
+START ANGLE	-639	
+END ANGLE	-603	
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		-620	
+START ANGLE	-665	
+END ANGLE	-575	
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		-619	
+START ANGLE	-625	
+END ANGLE	-613	
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		-618	
+START ANGLE	-619	
+END ANGLE	-617	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-617	
+START ANGLE	-704	
+END ANGLE	-530	
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		-616	
+START ANGLE	-690	
+END ANGLE	-542	
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		-615	
+START ANGLE	-637	
+END ANGLE	-593	
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		-614	
+START ANGLE	-634	
+END ANGLE	-594	
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		-613	
+START ANGLE	-636	
+END ANGLE	-590	
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		-612	
+START ANGLE	-621	
+END ANGLE	-603	
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		-611	
+START ANGLE	-614	
+END ANGLE	-608	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-610	
+START ANGLE	-611	
+END ANGLE	-609	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-609	
+START ANGLE	-640	
+END ANGLE	-578	
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		-608	
+START ANGLE	-623	
+END ANGLE	-593	
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		-607	
+START ANGLE	-624	
+END ANGLE	-590	
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		-606	
+START ANGLE	-660	
+END ANGLE	-552	
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		-605	
+START ANGLE	-633	
+END ANGLE	-577	
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		-604	
+START ANGLE	-610	
+END ANGLE	-598	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-603	
+START ANGLE	-614	
+END ANGLE	-592	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-602	
+START ANGLE	-624	
+END ANGLE	-580	
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		-601	
+START ANGLE	-619	
+END ANGLE	-583	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-600	
+START ANGLE	-601	
+END ANGLE	-599	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-599	
+START ANGLE	-620	
+END ANGLE	-578	
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		-598	
+START ANGLE	-688	
+END ANGLE	-508	
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		-597	
+START ANGLE	-623	
+END ANGLE	-571	
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		-596	
+START ANGLE	-601	
+END ANGLE	-591	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-595	
+START ANGLE	-599	
+END ANGLE	-591	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-594	
+START ANGLE	-633	
+END ANGLE	-555	
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		-593	
+START ANGLE	-643	
+END ANGLE	-543	
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		-592	
+START ANGLE	-595	
+END ANGLE	-589	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-591	
+START ANGLE	-603	
+END ANGLE	-579	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-590	
+START ANGLE	-596	
+END ANGLE	-584	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-589	
+START ANGLE	-622	
+END ANGLE	-556	
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		-588	
+START ANGLE	-608	
+END ANGLE	-568	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-587	
+START ANGLE	-677	
+END ANGLE	-497	
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		-586	
+START ANGLE	-607	
+END ANGLE	-565	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-585	
+START ANGLE	-590	
+END ANGLE	-580	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-584	
+START ANGLE	-617	
+END ANGLE	-551	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-583	
+START ANGLE	-673	
+END ANGLE	-493	
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		-582	
+START ANGLE	-589	
+END ANGLE	-575	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-581	
+START ANGLE	-600	
+END ANGLE	-562	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-580	
+START ANGLE	-592	
+END ANGLE	-568	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-579	
+START ANGLE	-584	
+END ANGLE	-574	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-578	
+START ANGLE	-619	
+END ANGLE	-537	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-577	
+START ANGLE	-582	
+END ANGLE	-572	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-576	
+START ANGLE	-600	
+END ANGLE	-552	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-575	
+START ANGLE	-612	
+END ANGLE	-538	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-574	
+START ANGLE	-585	
+END ANGLE	-563	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-573	
+START ANGLE	-617	
+END ANGLE	-529	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-572	
+START ANGLE	-662	
+END ANGLE	-482	
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		-571	
+START ANGLE	-586	
+END ANGLE	-556	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-570	
+START ANGLE	-639	
+END ANGLE	-501	
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		-569	
+START ANGLE	-641	
+END ANGLE	-497	
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		-568	
+START ANGLE	-586	
+END ANGLE	-550	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-567	
+START ANGLE	-573	
+END ANGLE	-561	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-566	
+START ANGLE	-577	
+END ANGLE	-555	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-565	
+START ANGLE	-628	
+END ANGLE	-502	
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		-564	
+START ANGLE	-600	
+END ANGLE	-528	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-563	
+START ANGLE	-567	
+END ANGLE	-559	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-562	
+START ANGLE	-613	
+END ANGLE	-511	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-561	
+START ANGLE	-573	
+END ANGLE	-549	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-560	
+START ANGLE	-576	
+END ANGLE	-544	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-559	
+START ANGLE	-565	
+END ANGLE	-553	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-558	
+START ANGLE	-581	
+END ANGLE	-535	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-557	
+START ANGLE	-562	
+END ANGLE	-552	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-556	
+START ANGLE	-570	
+END ANGLE	-542	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-555	
+START ANGLE	-562	
+END ANGLE	-548	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-554	
+START ANGLE	-570	
+END ANGLE	-538	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-553	
+START ANGLE	-556	
+END ANGLE	-550	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-552	
+START ANGLE	-573	
+END ANGLE	-531	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-551	
+START ANGLE	-577	
+END ANGLE	-525	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-550	
+START ANGLE	-552	
+END ANGLE	-548	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-549	
+START ANGLE	-557	
+END ANGLE	-541	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-548	
+START ANGLE	-557	
+END ANGLE	-539	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-547	
+START ANGLE	-551	
+END ANGLE	-543	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-546	
+START ANGLE	-561	
+END ANGLE	-531	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-545	
+START ANGLE	-562	
+END ANGLE	-528	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-544	
+START ANGLE	-551	
+END ANGLE	-537	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-543	
+START ANGLE	-556	
+END ANGLE	-530	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-542	
+START ANGLE	-552	
+END ANGLE	-532	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-541	
+START ANGLE	-601	
+END ANGLE	-481	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-540	
+START ANGLE	-980	
+END ANGLE	-100	
+LENGTH		880		
+SUM			35478	
+---------------------
+ANGLE		-539	
+START ANGLE	-599	
+END ANGLE	-479	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-538	
+START ANGLE	-548	
+END ANGLE	-528	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-537	
+START ANGLE	-550	
+END ANGLE	-524	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-536	
+START ANGLE	-543	
+END ANGLE	-529	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-535	
+START ANGLE	-552	
+END ANGLE	-518	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-534	
+START ANGLE	-549	
+END ANGLE	-519	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-533	
+START ANGLE	-537	
+END ANGLE	-529	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-532	
+START ANGLE	-541	
+END ANGLE	-523	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-531	
+START ANGLE	-539	
+END ANGLE	-523	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-530	
+START ANGLE	-532	
+END ANGLE	-528	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-529	
+START ANGLE	-555	
+END ANGLE	-503	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-528	
+START ANGLE	-549	
+END ANGLE	-507	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-527	
+START ANGLE	-530	
+END ANGLE	-524	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-526	
+START ANGLE	-542	
+END ANGLE	-510	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-525	
+START ANGLE	-532	
+END ANGLE	-518	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-524	
+START ANGLE	-538	
+END ANGLE	-510	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-523	
+START ANGLE	-528	
+END ANGLE	-518	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-522	
+START ANGLE	-545	
+END ANGLE	-499	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-521	
+START ANGLE	-527	
+END ANGLE	-515	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-520	
+START ANGLE	-536	
+END ANGLE	-504	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-519	
+START ANGLE	-531	
+END ANGLE	-507	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-518	
+START ANGLE	-569	
+END ANGLE	-467	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-517	
+START ANGLE	-521	
+END ANGLE	-513	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-516	
+START ANGLE	-552	
+END ANGLE	-480	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-515	
+START ANGLE	-578	
+END ANGLE	-452	
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		-514	
+START ANGLE	-525	
+END ANGLE	-503	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-513	
+START ANGLE	-519	
+END ANGLE	-507	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-512	
+START ANGLE	-530	
+END ANGLE	-494	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-511	
+START ANGLE	-583	
+END ANGLE	-439	
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		-510	
+START ANGLE	-579	
+END ANGLE	-441	
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		-509	
+START ANGLE	-524	
+END ANGLE	-494	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-508	
+START ANGLE	-598	
+END ANGLE	-418	
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		-507	
+START ANGLE	-551	
+END ANGLE	-463	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-506	
+START ANGLE	-517	
+END ANGLE	-495	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-505	
+START ANGLE	-542	
+END ANGLE	-468	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-504	
+START ANGLE	-528	
+END ANGLE	-480	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-503	
+START ANGLE	-508	
+END ANGLE	-498	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-502	
+START ANGLE	-543	
+END ANGLE	-461	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-501	
+START ANGLE	-506	
+END ANGLE	-496	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-500	
+START ANGLE	-512	
+END ANGLE	-488	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-499	
+START ANGLE	-518	
+END ANGLE	-480	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-498	
+START ANGLE	-505	
+END ANGLE	-491	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-497	
+START ANGLE	-587	
+END ANGLE	-407	
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		-496	
+START ANGLE	-529	
+END ANGLE	-463	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-495	
+START ANGLE	-500	
+END ANGLE	-490	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-494	
+START ANGLE	-515	
+END ANGLE	-473	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-493	
+START ANGLE	-583	
+END ANGLE	-403	
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		-492	
+START ANGLE	-512	
+END ANGLE	-472	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-491	
+START ANGLE	-524	
+END ANGLE	-458	
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		-490	
+START ANGLE	-496	
+END ANGLE	-484	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-489	
+START ANGLE	-501	
+END ANGLE	-477	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-488	
+START ANGLE	-491	
+END ANGLE	-485	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-487	
+START ANGLE	-537	
+END ANGLE	-437	
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		-486	
+START ANGLE	-525	
+END ANGLE	-447	
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		-485	
+START ANGLE	-489	
+END ANGLE	-481	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-484	
+START ANGLE	-489	
+END ANGLE	-479	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-483	
+START ANGLE	-509	
+END ANGLE	-457	
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		-482	
+START ANGLE	-572	
+END ANGLE	-392	
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		-481	
+START ANGLE	-502	
+END ANGLE	-460	
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		-480	
+START ANGLE	-481	
+END ANGLE	-479	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-479	
+START ANGLE	-497	
+END ANGLE	-461	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-478	
+START ANGLE	-500	
+END ANGLE	-456	
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		-477	
+START ANGLE	-488	
+END ANGLE	-466	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-476	
+START ANGLE	-482	
+END ANGLE	-470	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-475	
+START ANGLE	-503	
+END ANGLE	-447	
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		-474	
+START ANGLE	-528	
+END ANGLE	-420	
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		-473	
+START ANGLE	-490	
+END ANGLE	-456	
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		-472	
+START ANGLE	-487	
+END ANGLE	-457	
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		-471	
+START ANGLE	-502	
+END ANGLE	-440	
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		-470	
+START ANGLE	-471	
+END ANGLE	-469	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-469	
+START ANGLE	-472	
+END ANGLE	-466	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-468	
+START ANGLE	-477	
+END ANGLE	-459	
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		-467	
+START ANGLE	-490	
+END ANGLE	-444	
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		-466	
+START ANGLE	-486	
+END ANGLE	-446	
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		-465	
+START ANGLE	-487	
+END ANGLE	-443	
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		-464	
+START ANGLE	-538	
+END ANGLE	-390	
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		-463	
+START ANGLE	-550	
+END ANGLE	-376	
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		-462	
+START ANGLE	-463	
+END ANGLE	-461	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-461	
+START ANGLE	-467	
+END ANGLE	-455	
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		-460	
+START ANGLE	-505	
+END ANGLE	-415	
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		-459	
+START ANGLE	-477	
+END ANGLE	-441	
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		-458	
+START ANGLE	-488	
+END ANGLE	-428	
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		-457	
+START ANGLE	-505	
+END ANGLE	-409	
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		-456	
+START ANGLE	-460	
+END ANGLE	-452	
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		-455	
+START ANGLE	-489	
+END ANGLE	-421	
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		-454	
+START ANGLE	-460	
+END ANGLE	-448	
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		-453	
+START ANGLE	-472	
+END ANGLE	-434	
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		-452	
+START ANGLE	-532	
+END ANGLE	-372	
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		-451	
+START ANGLE	-463	
+END ANGLE	-439	
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		-450	
+START ANGLE	-800	
+END ANGLE	-100	
+LENGTH		700		
+SUM			28238	
+---------------------
+ANGLE		-449	
+START ANGLE	-461	
+END ANGLE	-437	
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		-448	
+START ANGLE	-528	
+END ANGLE	-368	
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		-447	
+START ANGLE	-466	
+END ANGLE	-428	
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		-446	
+START ANGLE	-452	
+END ANGLE	-440	
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		-445	
+START ANGLE	-479	
+END ANGLE	-411	
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		-444	
+START ANGLE	-448	
+END ANGLE	-440	
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		-443	
+START ANGLE	-491	
+END ANGLE	-395	
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		-442	
+START ANGLE	-472	
+END ANGLE	-412	
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		-441	
+START ANGLE	-459	
+END ANGLE	-423	
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		-440	
+START ANGLE	-485	
+END ANGLE	-395	
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		-439	
+START ANGLE	-445	
+END ANGLE	-433	
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		-438	
+START ANGLE	-439	
+END ANGLE	-437	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-437	
+START ANGLE	-524	
+END ANGLE	-350	
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		-436	
+START ANGLE	-510	
+END ANGLE	-362	
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		-435	
+START ANGLE	-457	
+END ANGLE	-413	
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		-434	
+START ANGLE	-454	
+END ANGLE	-414	
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		-433	
+START ANGLE	-456	
+END ANGLE	-410	
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		-432	
+START ANGLE	-441	
+END ANGLE	-423	
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		-431	
+START ANGLE	-434	
+END ANGLE	-428	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-430	
+START ANGLE	-431	
+END ANGLE	-429	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-429	
+START ANGLE	-460	
+END ANGLE	-398	
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		-428	
+START ANGLE	-443	
+END ANGLE	-413	
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		-427	
+START ANGLE	-444	
+END ANGLE	-410	
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		-426	
+START ANGLE	-480	
+END ANGLE	-372	
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		-425	
+START ANGLE	-453	
+END ANGLE	-397	
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		-424	
+START ANGLE	-430	
+END ANGLE	-418	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-423	
+START ANGLE	-434	
+END ANGLE	-412	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-422	
+START ANGLE	-444	
+END ANGLE	-400	
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		-421	
+START ANGLE	-439	
+END ANGLE	-403	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-420	
+START ANGLE	-421	
+END ANGLE	-419	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-419	
+START ANGLE	-440	
+END ANGLE	-398	
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		-418	
+START ANGLE	-508	
+END ANGLE	-328	
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		-417	
+START ANGLE	-443	
+END ANGLE	-391	
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		-416	
+START ANGLE	-421	
+END ANGLE	-411	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-415	
+START ANGLE	-419	
+END ANGLE	-411	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-414	
+START ANGLE	-453	
+END ANGLE	-375	
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		-413	
+START ANGLE	-463	
+END ANGLE	-363	
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		-412	
+START ANGLE	-415	
+END ANGLE	-409	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-411	
+START ANGLE	-423	
+END ANGLE	-399	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-410	
+START ANGLE	-416	
+END ANGLE	-404	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-409	
+START ANGLE	-442	
+END ANGLE	-376	
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		-408	
+START ANGLE	-428	
+END ANGLE	-388	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-407	
+START ANGLE	-497	
+END ANGLE	-317	
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		-406	
+START ANGLE	-427	
+END ANGLE	-385	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-405	
+START ANGLE	-410	
+END ANGLE	-400	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-404	
+START ANGLE	-437	
+END ANGLE	-371	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-403	
+START ANGLE	-493	
+END ANGLE	-313	
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		-402	
+START ANGLE	-409	
+END ANGLE	-395	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-401	
+START ANGLE	-420	
+END ANGLE	-382	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-400	
+START ANGLE	-412	
+END ANGLE	-388	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-399	
+START ANGLE	-404	
+END ANGLE	-394	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-398	
+START ANGLE	-439	
+END ANGLE	-357	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-397	
+START ANGLE	-402	
+END ANGLE	-392	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-396	
+START ANGLE	-420	
+END ANGLE	-372	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-395	
+START ANGLE	-432	
+END ANGLE	-358	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-394	
+START ANGLE	-405	
+END ANGLE	-383	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-393	
+START ANGLE	-437	
+END ANGLE	-349	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-392	
+START ANGLE	-482	
+END ANGLE	-302	
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		-391	
+START ANGLE	-406	
+END ANGLE	-376	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-390	
+START ANGLE	-459	
+END ANGLE	-321	
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		-389	
+START ANGLE	-461	
+END ANGLE	-317	
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		-388	
+START ANGLE	-406	
+END ANGLE	-370	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-387	
+START ANGLE	-393	
+END ANGLE	-381	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-386	
+START ANGLE	-397	
+END ANGLE	-375	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-385	
+START ANGLE	-448	
+END ANGLE	-322	
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		-384	
+START ANGLE	-420	
+END ANGLE	-348	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-383	
+START ANGLE	-387	
+END ANGLE	-379	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-382	
+START ANGLE	-433	
+END ANGLE	-331	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-381	
+START ANGLE	-393	
+END ANGLE	-369	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-380	
+START ANGLE	-396	
+END ANGLE	-364	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-379	
+START ANGLE	-385	
+END ANGLE	-373	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-378	
+START ANGLE	-401	
+END ANGLE	-355	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-377	
+START ANGLE	-382	
+END ANGLE	-372	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-376	
+START ANGLE	-390	
+END ANGLE	-362	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-375	
+START ANGLE	-382	
+END ANGLE	-368	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-374	
+START ANGLE	-390	
+END ANGLE	-358	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-373	
+START ANGLE	-376	
+END ANGLE	-370	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-372	
+START ANGLE	-393	
+END ANGLE	-351	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-371	
+START ANGLE	-397	
+END ANGLE	-345	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-370	
+START ANGLE	-372	
+END ANGLE	-368	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-369	
+START ANGLE	-377	
+END ANGLE	-361	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-368	
+START ANGLE	-377	
+END ANGLE	-359	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-367	
+START ANGLE	-371	
+END ANGLE	-363	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-366	
+START ANGLE	-381	
+END ANGLE	-351	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-365	
+START ANGLE	-382	
+END ANGLE	-348	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-364	
+START ANGLE	-371	
+END ANGLE	-357	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-363	
+START ANGLE	-376	
+END ANGLE	-350	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-362	
+START ANGLE	-372	
+END ANGLE	-352	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-361	
+START ANGLE	-421	
+END ANGLE	-301	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-360	
+START ANGLE	-620	
+END ANGLE	-100	
+LENGTH		520		
+SUM			20998	
+---------------------
+ANGLE		-359	
+START ANGLE	-419	
+END ANGLE	-299	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-358	
+START ANGLE	-368	
+END ANGLE	-348	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-357	
+START ANGLE	-370	
+END ANGLE	-344	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-356	
+START ANGLE	-363	
+END ANGLE	-349	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-355	
+START ANGLE	-372	
+END ANGLE	-338	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-354	
+START ANGLE	-369	
+END ANGLE	-339	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-353	
+START ANGLE	-357	
+END ANGLE	-349	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-352	
+START ANGLE	-361	
+END ANGLE	-343	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-351	
+START ANGLE	-359	
+END ANGLE	-343	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-350	
+START ANGLE	-352	
+END ANGLE	-348	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-349	
+START ANGLE	-375	
+END ANGLE	-323	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-348	
+START ANGLE	-369	
+END ANGLE	-327	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-347	
+START ANGLE	-350	
+END ANGLE	-344	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-346	
+START ANGLE	-362	
+END ANGLE	-330	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-345	
+START ANGLE	-352	
+END ANGLE	-338	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-344	
+START ANGLE	-358	
+END ANGLE	-330	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-343	
+START ANGLE	-348	
+END ANGLE	-338	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-342	
+START ANGLE	-365	
+END ANGLE	-319	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-341	
+START ANGLE	-347	
+END ANGLE	-335	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-340	
+START ANGLE	-356	
+END ANGLE	-324	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-339	
+START ANGLE	-351	
+END ANGLE	-327	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-338	
+START ANGLE	-389	
+END ANGLE	-287	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-337	
+START ANGLE	-341	
+END ANGLE	-333	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-336	
+START ANGLE	-372	
+END ANGLE	-300	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-335	
+START ANGLE	-398	
+END ANGLE	-272	
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		-334	
+START ANGLE	-345	
+END ANGLE	-323	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-333	
+START ANGLE	-339	
+END ANGLE	-327	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-332	
+START ANGLE	-350	
+END ANGLE	-314	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-331	
+START ANGLE	-403	
+END ANGLE	-259	
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		-330	
+START ANGLE	-399	
+END ANGLE	-261	
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		-329	
+START ANGLE	-344	
+END ANGLE	-314	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-328	
+START ANGLE	-418	
+END ANGLE	-238	
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		-327	
+START ANGLE	-371	
+END ANGLE	-283	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-326	
+START ANGLE	-337	
+END ANGLE	-315	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-325	
+START ANGLE	-362	
+END ANGLE	-288	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-324	
+START ANGLE	-348	
+END ANGLE	-300	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-323	
+START ANGLE	-328	
+END ANGLE	-318	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-322	
+START ANGLE	-363	
+END ANGLE	-281	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-321	
+START ANGLE	-326	
+END ANGLE	-316	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-320	
+START ANGLE	-332	
+END ANGLE	-308	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-319	
+START ANGLE	-338	
+END ANGLE	-300	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-318	
+START ANGLE	-325	
+END ANGLE	-311	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-317	
+START ANGLE	-407	
+END ANGLE	-227	
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		-316	
+START ANGLE	-349	
+END ANGLE	-283	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-315	
+START ANGLE	-320	
+END ANGLE	-310	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-314	
+START ANGLE	-335	
+END ANGLE	-293	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-313	
+START ANGLE	-403	
+END ANGLE	-223	
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		-312	
+START ANGLE	-332	
+END ANGLE	-292	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-311	
+START ANGLE	-344	
+END ANGLE	-278	
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		-310	
+START ANGLE	-316	
+END ANGLE	-304	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-309	
+START ANGLE	-321	
+END ANGLE	-297	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-308	
+START ANGLE	-311	
+END ANGLE	-305	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-307	
+START ANGLE	-357	
+END ANGLE	-257	
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		-306	
+START ANGLE	-345	
+END ANGLE	-267	
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		-305	
+START ANGLE	-309	
+END ANGLE	-301	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-304	
+START ANGLE	-309	
+END ANGLE	-299	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-303	
+START ANGLE	-329	
+END ANGLE	-277	
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		-302	
+START ANGLE	-392	
+END ANGLE	-212	
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		-301	
+START ANGLE	-322	
+END ANGLE	-280	
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		-300	
+START ANGLE	-301	
+END ANGLE	-299	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-299	
+START ANGLE	-317	
+END ANGLE	-281	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-298	
+START ANGLE	-320	
+END ANGLE	-276	
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		-297	
+START ANGLE	-308	
+END ANGLE	-286	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-296	
+START ANGLE	-302	
+END ANGLE	-290	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-295	
+START ANGLE	-323	
+END ANGLE	-267	
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		-294	
+START ANGLE	-348	
+END ANGLE	-240	
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		-293	
+START ANGLE	-310	
+END ANGLE	-276	
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		-292	
+START ANGLE	-307	
+END ANGLE	-277	
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		-291	
+START ANGLE	-322	
+END ANGLE	-260	
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		-290	
+START ANGLE	-291	
+END ANGLE	-289	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-289	
+START ANGLE	-292	
+END ANGLE	-286	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-288	
+START ANGLE	-297	
+END ANGLE	-279	
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		-287	
+START ANGLE	-310	
+END ANGLE	-264	
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		-286	
+START ANGLE	-306	
+END ANGLE	-266	
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		-285	
+START ANGLE	-307	
+END ANGLE	-263	
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		-284	
+START ANGLE	-358	
+END ANGLE	-210	
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		-283	
+START ANGLE	-370	
+END ANGLE	-196	
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		-282	
+START ANGLE	-283	
+END ANGLE	-281	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-281	
+START ANGLE	-287	
+END ANGLE	-275	
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		-280	
+START ANGLE	-325	
+END ANGLE	-235	
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		-279	
+START ANGLE	-297	
+END ANGLE	-261	
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		-278	
+START ANGLE	-308	
+END ANGLE	-248	
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		-277	
+START ANGLE	-325	
+END ANGLE	-229	
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		-276	
+START ANGLE	-280	
+END ANGLE	-272	
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		-275	
+START ANGLE	-309	
+END ANGLE	-241	
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		-274	
+START ANGLE	-280	
+END ANGLE	-268	
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		-273	
+START ANGLE	-292	
+END ANGLE	-254	
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		-272	
+START ANGLE	-352	
+END ANGLE	-192	
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		-271	
+START ANGLE	-283	
+END ANGLE	-259	
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		-270	
+START ANGLE	-440	
+END ANGLE	-100	
+LENGTH		340		
+SUM			13758	
+---------------------
+ANGLE		-269	
+START ANGLE	-281	
+END ANGLE	-257	
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		-268	
+START ANGLE	-348	
+END ANGLE	-188	
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		-267	
+START ANGLE	-286	
+END ANGLE	-248	
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		-266	
+START ANGLE	-272	
+END ANGLE	-260	
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		-265	
+START ANGLE	-299	
+END ANGLE	-231	
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		-264	
+START ANGLE	-268	
+END ANGLE	-260	
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		-263	
+START ANGLE	-311	
+END ANGLE	-215	
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		-262	
+START ANGLE	-292	
+END ANGLE	-232	
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		-261	
+START ANGLE	-279	
+END ANGLE	-243	
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		-260	
+START ANGLE	-305	
+END ANGLE	-215	
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		-259	
+START ANGLE	-265	
+END ANGLE	-253	
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		-258	
+START ANGLE	-259	
+END ANGLE	-257	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-257	
+START ANGLE	-344	
+END ANGLE	-170	
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		-256	
+START ANGLE	-330	
+END ANGLE	-182	
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		-255	
+START ANGLE	-277	
+END ANGLE	-233	
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		-254	
+START ANGLE	-274	
+END ANGLE	-234	
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		-253	
+START ANGLE	-276	
+END ANGLE	-230	
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		-252	
+START ANGLE	-261	
+END ANGLE	-243	
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		-251	
+START ANGLE	-254	
+END ANGLE	-248	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-250	
+START ANGLE	-251	
+END ANGLE	-249	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-249	
+START ANGLE	-280	
+END ANGLE	-218	
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		-248	
+START ANGLE	-263	
+END ANGLE	-233	
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		-247	
+START ANGLE	-264	
+END ANGLE	-230	
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		-246	
+START ANGLE	-300	
+END ANGLE	-192	
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		-245	
+START ANGLE	-273	
+END ANGLE	-217	
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		-244	
+START ANGLE	-250	
+END ANGLE	-238	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-243	
+START ANGLE	-254	
+END ANGLE	-232	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-242	
+START ANGLE	-264	
+END ANGLE	-220	
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		-241	
+START ANGLE	-259	
+END ANGLE	-223	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-240	
+START ANGLE	-241	
+END ANGLE	-239	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-239	
+START ANGLE	-260	
+END ANGLE	-218	
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		-238	
+START ANGLE	-328	
+END ANGLE	-148	
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		-237	
+START ANGLE	-263	
+END ANGLE	-211	
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		-236	
+START ANGLE	-241	
+END ANGLE	-231	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-235	
+START ANGLE	-239	
+END ANGLE	-231	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-234	
+START ANGLE	-273	
+END ANGLE	-195	
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		-233	
+START ANGLE	-283	
+END ANGLE	-183	
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		-232	
+START ANGLE	-235	
+END ANGLE	-229	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-231	
+START ANGLE	-243	
+END ANGLE	-219	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-230	
+START ANGLE	-236	
+END ANGLE	-224	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-229	
+START ANGLE	-262	
+END ANGLE	-196	
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		-228	
+START ANGLE	-248	
+END ANGLE	-208	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-227	
+START ANGLE	-317	
+END ANGLE	-137	
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		-226	
+START ANGLE	-247	
+END ANGLE	-205	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-225	
+START ANGLE	-230	
+END ANGLE	-220	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-224	
+START ANGLE	-257	
+END ANGLE	-191	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-223	
+START ANGLE	-313	
+END ANGLE	-133	
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		-222	
+START ANGLE	-229	
+END ANGLE	-215	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-221	
+START ANGLE	-240	
+END ANGLE	-202	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-220	
+START ANGLE	-232	
+END ANGLE	-208	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-219	
+START ANGLE	-224	
+END ANGLE	-214	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-218	
+START ANGLE	-259	
+END ANGLE	-177	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-217	
+START ANGLE	-222	
+END ANGLE	-212	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-216	
+START ANGLE	-240	
+END ANGLE	-192	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-215	
+START ANGLE	-252	
+END ANGLE	-178	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-214	
+START ANGLE	-225	
+END ANGLE	-203	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-213	
+START ANGLE	-257	
+END ANGLE	-169	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-212	
+START ANGLE	-302	
+END ANGLE	-122	
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		-211	
+START ANGLE	-226	
+END ANGLE	-196	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-210	
+START ANGLE	-279	
+END ANGLE	-141	
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		-209	
+START ANGLE	-281	
+END ANGLE	-137	
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		-208	
+START ANGLE	-226	
+END ANGLE	-190	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-207	
+START ANGLE	-213	
+END ANGLE	-201	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-206	
+START ANGLE	-217	
+END ANGLE	-195	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-205	
+START ANGLE	-268	
+END ANGLE	-142	
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		-204	
+START ANGLE	-240	
+END ANGLE	-168	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-203	
+START ANGLE	-207	
+END ANGLE	-199	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-202	
+START ANGLE	-253	
+END ANGLE	-151	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-201	
+START ANGLE	-213	
+END ANGLE	-189	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-200	
+START ANGLE	-216	
+END ANGLE	-184	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-199	
+START ANGLE	-205	
+END ANGLE	-193	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-198	
+START ANGLE	-221	
+END ANGLE	-175	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-197	
+START ANGLE	-202	
+END ANGLE	-192	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-196	
+START ANGLE	-210	
+END ANGLE	-182	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-195	
+START ANGLE	-202	
+END ANGLE	-188	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-194	
+START ANGLE	-210	
+END ANGLE	-178	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-193	
+START ANGLE	-196	
+END ANGLE	-190	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-192	
+START ANGLE	-213	
+END ANGLE	-171	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-191	
+START ANGLE	-217	
+END ANGLE	-165	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-190	
+START ANGLE	-192	
+END ANGLE	-188	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-189	
+START ANGLE	-197	
+END ANGLE	-181	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-188	
+START ANGLE	-197	
+END ANGLE	-179	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-187	
+START ANGLE	-191	
+END ANGLE	-183	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-186	
+START ANGLE	-201	
+END ANGLE	-171	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-185	
+START ANGLE	-202	
+END ANGLE	-168	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-184	
+START ANGLE	-191	
+END ANGLE	-177	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-183	
+START ANGLE	-196	
+END ANGLE	-170	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-182	
+START ANGLE	-192	
+END ANGLE	-172	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-181	
+START ANGLE	-241	
+END ANGLE	-121	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-180	
+START ANGLE	-260	
+END ANGLE	-100	
+LENGTH		160		
+SUM			6518	
+---------------------
+ANGLE		-179	
+START ANGLE	-239	
+END ANGLE	-119	
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		-178	
+START ANGLE	-188	
+END ANGLE	-168	
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		-177	
+START ANGLE	-190	
+END ANGLE	-164	
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		-176	
+START ANGLE	-183	
+END ANGLE	-169	
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		-175	
+START ANGLE	-192	
+END ANGLE	-158	
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		-174	
+START ANGLE	-189	
+END ANGLE	-159	
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		-173	
+START ANGLE	-177	
+END ANGLE	-169	
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		-172	
+START ANGLE	-181	
+END ANGLE	-163	
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		-171	
+START ANGLE	-179	
+END ANGLE	-163	
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		-170	
+START ANGLE	-172	
+END ANGLE	-168	
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		-169	
+START ANGLE	-195	
+END ANGLE	-143	
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		-168	
+START ANGLE	-189	
+END ANGLE	-147	
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		-167	
+START ANGLE	-170	
+END ANGLE	-164	
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		-166	
+START ANGLE	-182	
+END ANGLE	-150	
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		-165	
+START ANGLE	-172	
+END ANGLE	-158	
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		-164	
+START ANGLE	-178	
+END ANGLE	-150	
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		-163	
+START ANGLE	-168	
+END ANGLE	-158	
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		-162	
+START ANGLE	-185	
+END ANGLE	-139	
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		-161	
+START ANGLE	-167	
+END ANGLE	-155	
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		-160	
+START ANGLE	-176	
+END ANGLE	-144	
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		-159	
+START ANGLE	-171	
+END ANGLE	-147	
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		-158	
+START ANGLE	-209	
+END ANGLE	-107	
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		-157	
+START ANGLE	-161	
+END ANGLE	-153	
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		-156	
+START ANGLE	-192	
+END ANGLE	-120	
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		-155	
+START ANGLE	-284	
+END ANGLE	-26		
+LENGTH		258		
+SUM			9579	
+---------------------
+ANGLE		-154	
+START ANGLE	-165	
+END ANGLE	-143	
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		-153	
+START ANGLE	-159	
+END ANGLE	-147	
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		-152	
+START ANGLE	-170	
+END ANGLE	-134	
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		-151	
+START ANGLE	-382	
+END ANGLE	80		
+LENGTH		462		
+SUM			15847	
+---------------------
+ANGLE		-150	
+START ANGLE	-337	
+END ANGLE	37		
+LENGTH		374		
+SUM			13032	
+---------------------
+ANGLE		-149	
+START ANGLE	-164	
+END ANGLE	-134	
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		-148	
+START ANGLE	-204	
+END ANGLE	-92		
+LENGTH		112		
+SUM			4406	
+---------------------
+ANGLE		-147	
+START ANGLE	-191	
+END ANGLE	-103	
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		-146	
+START ANGLE	-157	
+END ANGLE	-135	
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		-145	
+START ANGLE	-182	
+END ANGLE	-108	
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		-144	
+START ANGLE	-168	
+END ANGLE	-120	
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		-143	
+START ANGLE	-148	
+END ANGLE	-138	
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		-142	
+START ANGLE	-183	
+END ANGLE	-101	
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		-141	
+START ANGLE	-146	
+END ANGLE	-136	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-140	
+START ANGLE	-152	
+END ANGLE	-128	
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		-139	
+START ANGLE	-158	
+END ANGLE	-120	
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		-138	
+START ANGLE	-145	
+END ANGLE	-131	
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		-137	
+START ANGLE	-203	
+END ANGLE	-71		
+LENGTH		132		
+SUM			4971	
+---------------------
+ANGLE		-136	
+START ANGLE	-169	
+END ANGLE	-103	
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		-135	
+START ANGLE	-140	
+END ANGLE	-130	
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		-134	
+START ANGLE	-155	
+END ANGLE	-113	
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		-133	
+START ANGLE	-294	
+END ANGLE	28		
+LENGTH		322		
+SUM			10985	
+---------------------
+ANGLE		-132	
+START ANGLE	-152	
+END ANGLE	-112	
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		-131	
+START ANGLE	-225	
+END ANGLE	-37		
+LENGTH		188		
+SUM			6831	
+---------------------
+ANGLE		-130	
+START ANGLE	-136	
+END ANGLE	-124	
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		-129	
+START ANGLE	-141	
+END ANGLE	-117	
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		-128	
+START ANGLE	-131	
+END ANGLE	-125	
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		-127	
+START ANGLE	-167	
+END ANGLE	-87		
+LENGTH		80		
+SUM			3206	
+---------------------
+ANGLE		-126	
+START ANGLE	-166	
+END ANGLE	-86		
+LENGTH		80		
+SUM			3198	
+---------------------
+ANGLE		-125	
+START ANGLE	-129	
+END ANGLE	-121	
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		-124	
+START ANGLE	-129	
+END ANGLE	-119	
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		-123	
+START ANGLE	-167	
+END ANGLE	-79		
+LENGTH		88		
+SUM			3457	
+---------------------
+ANGLE		-122	
+START ANGLE	-156	
+END ANGLE	-88		
+LENGTH		68		
+SUM			2776	
+---------------------
+ANGLE		-121	
+START ANGLE	-142	
+END ANGLE	-100	
+LENGTH		42		
+SUM			1869	
+---------------------
+ANGLE		-120	
+START ANGLE	-121	
+END ANGLE	-119	
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		-119	
+START ANGLE	-137	
+END ANGLE	-101	
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		-118	
+START ANGLE	-193	
+END ANGLE	-43		
+LENGTH		150		
+SUM			5353	
+---------------------
+ANGLE		-117	
+START ANGLE	-128	
+END ANGLE	-106	
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		-116	
+START ANGLE	-122	
+END ANGLE	-110	
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		-115	
+START ANGLE	-156	
+END ANGLE	-74		
+LENGTH		82		
+SUM			3202	
+---------------------
+ANGLE		-114	
+START ANGLE	-157	
+END ANGLE	-71		
+LENGTH		86		
+SUM			3315	
+---------------------
+ANGLE		-113	
+START ANGLE	-163	
+END ANGLE	-63		
+LENGTH		100		
+SUM			3755	
+---------------------
+ANGLE		-112	
+START ANGLE	-163	
+END ANGLE	-61		
+LENGTH		102		
+SUM			3818	
+---------------------
+ANGLE		-111	
+START ANGLE	-186	
+END ANGLE	-36		
+LENGTH		150		
+SUM			5305	
+---------------------
+ANGLE		-110	
+START ANGLE	-111	
+END ANGLE	-109	
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		-109	
+START ANGLE	-112	
+END ANGLE	-106	
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		-108	
+START ANGLE	-318	
+END ANGLE	102		
+LENGTH		420		
+SUM			14130	
+---------------------
+ANGLE		-107	
+START ANGLE	-284	
+END ANGLE	70		
+LENGTH		354		
+SUM			11732	
+---------------------
+ANGLE		-106	
+START ANGLE	-115	
+END ANGLE	-97		
+LENGTH		18		
+SUM			805		
+---------------------
+ANGLE		-105	
+START ANGLE	-167	
+END ANGLE	-43		
+LENGTH		124		
+SUM			4425	
+---------------------
+ANGLE		-104	
+START ANGLE	-358	
+END ANGLE	150		
+LENGTH		508		
+SUM			17703	
+---------------------
+ANGLE		-103	
+START ANGLE	-114	
+END ANGLE	-92		
+LENGTH		22		
+SUM			910		
+---------------------
+ANGLE		-102	
+START ANGLE	-103	
+END ANGLE	-101	
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		-101	
+START ANGLE	-114	
+END ANGLE	-88		
+LENGTH		26		
+SUM			1005	
+---------------------
+ANGLE		-100	
+START ANGLE	-113	
+END ANGLE	-87		
+LENGTH		26		
+SUM			1004	
+---------------------
+ANGLE		-99		
+START ANGLE	-115	
+END ANGLE	-83		
+LENGTH		32		
+SUM			1202	
+---------------------
+ANGLE		-98		
+START ANGLE	-156	
+END ANGLE	-40		
+LENGTH		116		
+SUM			4116	
+---------------------
+ANGLE		-97		
+START ANGLE	-157	
+END ANGLE	-37		
+LENGTH		120		
+SUM			4238	
+---------------------
+ANGLE		-96		
+START ANGLE	-113	
+END ANGLE	-79		
+LENGTH		34		
+SUM			1255	
+---------------------
+ANGLE		-95		
+START ANGLE	-309	
+END ANGLE	119		
+LENGTH		428		
+SUM			14459	
+---------------------
+ANGLE		-94		
+START ANGLE	-115	
+END ANGLE	-73		
+LENGTH		42		
+SUM			1498	
+---------------------
+ANGLE		-93		
+START ANGLE	-256	
+END ANGLE	70		
+LENGTH		326		
+SUM			10554	
+---------------------
+ANGLE		-92		
+START ANGLE	-156	
+END ANGLE	-28		
+LENGTH		128		
+SUM			4450	
+---------------------
+ANGLE		-91		
+START ANGLE	-283	
+END ANGLE	101		
+LENGTH		384		
+SUM			12634	
+---------------------
+ANGLE		-90		
+START ANGLE	-99		
+END ANGLE	-81		
+LENGTH		18		
+SUM			640		
+---------------------
+ANGLE		-89		
+START ANGLE	-281	
+END ANGLE	103		
+LENGTH		384		
+SUM			12634	
+---------------------
+ANGLE		-88		
+START ANGLE	-204	
+END ANGLE	28		
+LENGTH		232		
+SUM			7241	
+---------------------
+ANGLE		-87		
+START ANGLE	-99		
+END ANGLE	-75		
+LENGTH		24		
+SUM			818		
+---------------------
+ANGLE		-86		
+START ANGLE	-94		
+END ANGLE	-78		
+LENGTH		16		
+SUM			554		
+---------------------
+ANGLE		-85		
+START ANGLE	-97		
+END ANGLE	-73		
+LENGTH		24		
+SUM			786		
+---------------------
+ANGLE		-84		
+START ANGLE	-247	
+END ANGLE	79		
+LENGTH		326		
+SUM			10456	
+---------------------
+ANGLE		-83		
+START ANGLE	-87		
+END ANGLE	-79		
+LENGTH		8		
+SUM			344		
+---------------------
+ANGLE		-82		
+START ANGLE	-86		
+END ANGLE	-78		
+LENGTH		8		
+SUM			340		
+---------------------
+ANGLE		-81		
+START ANGLE	-88		
+END ANGLE	-74		
+LENGTH		14		
+SUM			521		
+---------------------
+ANGLE		-80		
+START ANGLE	-186	
+END ANGLE	26		
+LENGTH		212		
+SUM			6528	
+---------------------
+ANGLE		-79		
+START ANGLE	-246	
+END ANGLE	88		
+LENGTH		334		
+SUM			10688	
+---------------------
+ANGLE		-78		
+START ANGLE	-81		
+END ANGLE	-75		
+LENGTH		6		
+SUM			276		
+---------------------
+ANGLE		-77		
+START ANGLE	-85		
+END ANGLE	-69		
+LENGTH		16		
+SUM			558		
+---------------------
+ANGLE		-76		
+START ANGLE	-85		
+END ANGLE	-67		
+LENGTH		18		
+SUM			604		
+---------------------
+ANGLE		-75		
+START ANGLE	-173	
+END ANGLE	23		
+LENGTH		196		
+SUM			5987	
+---------------------
+ANGLE		-74		
+START ANGLE	-174	
+END ANGLE	26		
+LENGTH		200		
+SUM			6112	
+---------------------
+ANGLE		-73		
+START ANGLE	-253	
+END ANGLE	107		
+LENGTH		360		
+SUM			11631	
+---------------------
+ANGLE		-72		
+START ANGLE	-252	
+END ANGLE	108		
+LENGTH		360		
+SUM			11625	
+---------------------
+ANGLE		-71		
+START ANGLE	-114	
+END ANGLE	-28		
+LENGTH		86		
+SUM			2679	
+---------------------
+ANGLE		-70		
+START ANGLE	-76		
+END ANGLE	-64		
+LENGTH		12		
+SUM			404		
+---------------------
+ANGLE		-69		
+START ANGLE	-174	
+END ANGLE	36		
+LENGTH		210		
+SUM			6386	
+---------------------
+ANGLE		-68		
+START ANGLE	-69		
+END ANGLE	-67		
+LENGTH		2		
+SUM			129		
+---------------------
+ANGLE		-67		
+START ANGLE	-76		
+END ANGLE	-58		
+LENGTH		18		
+SUM			580		
+---------------------
+ANGLE		-66		
+START ANGLE	-92		
+END ANGLE	-40		
+LENGTH		52		
+SUM			1530	
+---------------------
+ANGLE		-65		
+START ANGLE	-87		
+END ANGLE	-43		
+LENGTH		44		
+SUM			1312	
+---------------------
+ANGLE		-64		
+START ANGLE	-68		
+END ANGLE	-60		
+LENGTH		8		
+SUM			305		
+---------------------
+ANGLE		-63		
+START ANGLE	-205	
+END ANGLE	79		
+LENGTH		284		
+SUM			8691	
+---------------------
+ANGLE		-62		
+START ANGLE	-63		
+END ANGLE	-61		
+LENGTH		2		
+SUM			160		
+---------------------
+ANGLE		-61		
+START ANGLE	-64		
+END ANGLE	-58		
+LENGTH		6		
+SUM			256		
+---------------------
+ANGLE		-60		
+START ANGLE	-85		
+END ANGLE	-35		
+LENGTH		50		
+SUM			1480	
+---------------------
+ANGLE		-59		
+START ANGLE	-91		
+END ANGLE	-27		
+LENGTH		64		
+SUM			1859	
+---------------------
+ANGLE		-58		
+START ANGLE	-59		
+END ANGLE	-57		
+LENGTH		2		
+SUM			130		
+---------------------
+ANGLE		-57		
+START ANGLE	-59		
+END ANGLE	-55		
+LENGTH		4		
+SUM			181		
+---------------------
+ANGLE		-56		
+START ANGLE	-57		
+END ANGLE	-55		
+LENGTH		2		
+SUM			128		
+---------------------
+ANGLE		-55		
+START ANGLE	-57		
+END ANGLE	-53		
+LENGTH		4		
+SUM			179		
+---------------------
+ANGLE		-54		
+START ANGLE	-56		
+END ANGLE	-52		
+LENGTH		4		
+SUM			178		
+---------------------
+ANGLE		-53		
+START ANGLE	-54		
+END ANGLE	-52		
+LENGTH		2		
+SUM			127		
+---------------------
+ANGLE		-52		
+START ANGLE	-54		
+END ANGLE	-50		
+LENGTH		4		
+SUM			177		
+---------------------
+ANGLE		-51		
+START ANGLE	-52		
+END ANGLE	-50		
+LENGTH		2		
+SUM			126		
+---------------------
+ANGLE		-50		
+START ANGLE	-52		
+END ANGLE	-48		
+LENGTH		4		
+SUM			176		
+---------------------
+ANGLE		-49		
+START ANGLE	-51		
+END ANGLE	-47		
+LENGTH		4		
+SUM			174		
+---------------------
+ANGLE		-48		
+START ANGLE	-49		
+END ANGLE	-47		
+LENGTH		2		
+SUM			124		
+---------------------
+ANGLE		-47		
+START ANGLE	-227	
+END ANGLE	133		
+LENGTH		360		
+SUM			11616	
+---------------------
+ANGLE		-46		
+START ANGLE	-59		
+END ANGLE	-33		
+LENGTH		26		
+SUM			776		
+---------------------
+ANGLE		-45		
+START ANGLE	-57		
+END ANGLE	-33		
+LENGTH		24		
+SUM			723		
+---------------------
+ANGLE		-44		
+START ANGLE	-56		
+END ANGLE	-32		
+LENGTH		24		
+SUM			722		
+---------------------
+ANGLE		-43		
+START ANGLE	-44		
+END ANGLE	-42		
+LENGTH		2		
+SUM			143		
+---------------------
+ANGLE		-42		
+START ANGLE	-52		
+END ANGLE	-32		
+LENGTH		20		
+SUM			620		
+---------------------
+ANGLE		-41		
+START ANGLE	-51		
+END ANGLE	-31		
+LENGTH		20		
+SUM			618		
+---------------------
+ANGLE		-40		
+START ANGLE	-49		
+END ANGLE	-31		
+LENGTH		18		
+SUM			568		
+---------------------
+ANGLE		-39		
+START ANGLE	-47		
+END ANGLE	-31		
+LENGTH		16		
+SUM			518		
+---------------------
+ANGLE		-38		
+START ANGLE	-46		
+END ANGLE	-30		
+LENGTH		16		
+SUM			525		
+---------------------
+ANGLE		-37		
+START ANGLE	-52		
+END ANGLE	-22		
+LENGTH		30		
+SUM			878		
+---------------------
+ANGLE		-36		
+START ANGLE	-50		
+END ANGLE	-22		
+LENGTH		28		
+SUM			827		
+---------------------
+ANGLE		-35		
+START ANGLE	-48		
+END ANGLE	-22		
+LENGTH		26		
+SUM			777		
+---------------------
+ANGLE		-34		
+START ANGLE	-41		
+END ANGLE	-27		
+LENGTH		14		
+SUM			486		
+---------------------
+ANGLE		-33		
+START ANGLE	-76		
+END ANGLE	10		
+LENGTH		86		
+SUM			2019	
+---------------------
+ANGLE		-32		
+START ANGLE	-92		
+END ANGLE	28		
+LENGTH		120		
+SUM			2930	
+---------------------
+ANGLE		-31		
+START ANGLE	-36		
+END ANGLE	-26		
+LENGTH		10		
+SUM			352		
+---------------------
+ANGLE		-30		
+START ANGLE	-46		
+END ANGLE	-14		
+LENGTH		32		
+SUM			914		
+---------------------
+ANGLE		-29		
+START ANGLE	-69		
+END ANGLE	11		
+LENGTH		80		
+SUM			1844	
+---------------------
+ANGLE		-28		
+START ANGLE	-67		
+END ANGLE	11		
+LENGTH		78		
+SUM			1788	
+---------------------
+ANGLE		-27		
+START ANGLE	-32		
+END ANGLE	-22		
+LENGTH		10		
+SUM			334		
+---------------------
+ANGLE		-26		
+START ANGLE	-35		
+END ANGLE	-17		
+LENGTH		18		
+SUM			533		
+---------------------
+ANGLE		-25		
+START ANGLE	-34		
+END ANGLE	-16		
+LENGTH		18		
+SUM			529		
+---------------------
+ANGLE		-24		
+START ANGLE	-58		
+END ANGLE	10		
+LENGTH		68		
+SUM			1517	
+---------------------
+ANGLE		-23		
+START ANGLE	-35		
+END ANGLE	-11		
+LENGTH		24		
+SUM			677		
+---------------------
+ANGLE		-22		
+START ANGLE	-30		
+END ANGLE	-14		
+LENGTH		16		
+SUM			470		
+---------------------
+ANGLE		-21		
+START ANGLE	-58		
+END ANGLE	16		
+LENGTH		74		
+SUM			1661	
+---------------------
+ANGLE		-20		
+START ANGLE	-78		
+END ANGLE	38		
+LENGTH		116		
+SUM			2792	
+---------------------
+ANGLE		-19		
+START ANGLE	-158	
+END ANGLE	120		
+LENGTH		278		
+SUM			8450	
+---------------------
+ANGLE		-18		
+START ANGLE	-79		
+END ANGLE	43		
+LENGTH		122		
+SUM			2987	
+---------------------
+ANGLE		-17		
+START ANGLE	-56		
+END ANGLE	22		
+LENGTH		78		
+SUM			1747	
+---------------------
+ANGLE		-16		
+START ANGLE	-46		
+END ANGLE	14		
+LENGTH		60		
+SUM			1302	
+---------------------
+ANGLE		-15		
+START ANGLE	-18		
+END ANGLE	-12		
+LENGTH		6		
+SUM			213		
+---------------------
+ANGLE		-14		
+START ANGLE	-17		
+END ANGLE	-11		
+LENGTH		6		
+SUM			218		
+---------------------
+ANGLE		-13		
+START ANGLE	-16		
+END ANGLE	-10		
+LENGTH		6		
+SUM			208		
+---------------------
+ANGLE		-12		
+START ANGLE	-35		
+END ANGLE	11		
+LENGTH		46		
+SUM			921		
+---------------------
+ANGLE		-11		
+START ANGLE	-55		
+END ANGLE	33		
+LENGTH		88		
+SUM			2006	
+---------------------
+ANGLE		-10		
+START ANGLE	-53		
+END ANGLE	33		
+LENGTH		86		
+SUM			1955	
+---------------------
+ANGLE		-9		
+START ANGLE	-35		
+END ANGLE	17		
+LENGTH		52		
+SUM			1065	
+---------------------
+ANGLE		-8		
+START ANGLE	-9		
+END ANGLE	-7		
+LENGTH		2		
+SUM			66		
+---------------------
+ANGLE		-7		
+START ANGLE	-8		
+END ANGLE	-6		
+LENGTH		2		
+SUM			49		
+---------------------
+ANGLE		-6		
+START ANGLE	-40		
+END ANGLE	28		
+LENGTH		68		
+SUM			1492	
+---------------------
+ANGLE		-5		
+START ANGLE	-32		
+END ANGLE	22		
+LENGTH		54		
+SUM			1101	
+---------------------
+ANGLE		-4		
+START ANGLE	-5		
+END ANGLE	-3		
+LENGTH		2		
+SUM			46		
+---------------------
+ANGLE		-3		
+START ANGLE	-5		
+END ANGLE	-1		
+LENGTH		4		
+SUM			55		
+---------------------
+ANGLE		-2		
+START ANGLE	-3		
+END ANGLE	-1		
+LENGTH		2		
+SUM			36		
+---------------------
+ANGLE		-1		
+START ANGLE	-5		
+END ANGLE	3		
+LENGTH		8		
+SUM			91		
+---------------------
+ANGLE		1		
+START ANGLE	-3		
+END ANGLE	5		
+LENGTH		8		
+SUM			91		
+---------------------
+ANGLE		2		
+START ANGLE	1		
+END ANGLE	3		
+LENGTH		2		
+SUM			36		
+---------------------
+ANGLE		3		
+START ANGLE	1		
+END ANGLE	5		
+LENGTH		4		
+SUM			55		
+---------------------
+ANGLE		4		
+START ANGLE	3		
+END ANGLE	5		
+LENGTH		2		
+SUM			46		
+---------------------
+ANGLE		5		
+START ANGLE	-22		
+END ANGLE	32		
+LENGTH		54		
+SUM			1101	
+---------------------
+ANGLE		6		
+START ANGLE	-28		
+END ANGLE	40		
+LENGTH		68		
+SUM			1492	
+---------------------
+ANGLE		7		
+START ANGLE	6		
+END ANGLE	8		
+LENGTH		2		
+SUM			49		
+---------------------
+ANGLE		8		
+START ANGLE	7		
+END ANGLE	9		
+LENGTH		2		
+SUM			66		
+---------------------
+ANGLE		9		
+START ANGLE	-17		
+END ANGLE	35		
+LENGTH		52		
+SUM			1065	
+---------------------
+ANGLE		10		
+START ANGLE	-33		
+END ANGLE	53		
+LENGTH		86		
+SUM			1955	
+---------------------
+ANGLE		11		
+START ANGLE	-33		
+END ANGLE	55		
+LENGTH		88		
+SUM			2006	
+---------------------
+ANGLE		12		
+START ANGLE	-11		
+END ANGLE	35		
+LENGTH		46		
+SUM			921		
+---------------------
+ANGLE		13		
+START ANGLE	10		
+END ANGLE	16		
+LENGTH		6		
+SUM			208		
+---------------------
+ANGLE		14		
+START ANGLE	11		
+END ANGLE	17		
+LENGTH		6		
+SUM			218		
+---------------------
+ANGLE		15		
+START ANGLE	12		
+END ANGLE	18		
+LENGTH		6		
+SUM			213		
+---------------------
+ANGLE		16		
+START ANGLE	-14		
+END ANGLE	46		
+LENGTH		60		
+SUM			1302	
+---------------------
+ANGLE		17		
+START ANGLE	-22		
+END ANGLE	56		
+LENGTH		78		
+SUM			1747	
+---------------------
+ANGLE		18		
+START ANGLE	-43		
+END ANGLE	79		
+LENGTH		122		
+SUM			2987	
+---------------------
+ANGLE		19		
+START ANGLE	-120	
+END ANGLE	158		
+LENGTH		278		
+SUM			8450	
+---------------------
+ANGLE		20		
+START ANGLE	-38		
+END ANGLE	78		
+LENGTH		116		
+SUM			2792	
+---------------------
+ANGLE		21		
+START ANGLE	-16		
+END ANGLE	58		
+LENGTH		74		
+SUM			1661	
+---------------------
+ANGLE		22		
+START ANGLE	14		
+END ANGLE	30		
+LENGTH		16		
+SUM			470		
+---------------------
+ANGLE		23		
+START ANGLE	11		
+END ANGLE	35		
+LENGTH		24		
+SUM			677		
+---------------------
+ANGLE		24		
+START ANGLE	-10		
+END ANGLE	58		
+LENGTH		68		
+SUM			1517	
+---------------------
+ANGLE		25		
+START ANGLE	16		
+END ANGLE	34		
+LENGTH		18		
+SUM			529		
+---------------------
+ANGLE		26		
+START ANGLE	17		
+END ANGLE	35		
+LENGTH		18		
+SUM			533		
+---------------------
+ANGLE		27		
+START ANGLE	22		
+END ANGLE	32		
+LENGTH		10		
+SUM			334		
+---------------------
+ANGLE		28		
+START ANGLE	-11		
+END ANGLE	67		
+LENGTH		78		
+SUM			1788	
+---------------------
+ANGLE		29		
+START ANGLE	-11		
+END ANGLE	69		
+LENGTH		80		
+SUM			1844	
+---------------------
+ANGLE		30		
+START ANGLE	14		
+END ANGLE	46		
+LENGTH		32		
+SUM			914		
+---------------------
+ANGLE		31		
+START ANGLE	26		
+END ANGLE	36		
+LENGTH		10		
+SUM			352		
+---------------------
+ANGLE		32		
+START ANGLE	-28		
+END ANGLE	92		
+LENGTH		120		
+SUM			2930	
+---------------------
+ANGLE		33		
+START ANGLE	-10		
+END ANGLE	76		
+LENGTH		86		
+SUM			2019	
+---------------------
+ANGLE		34		
+START ANGLE	27		
+END ANGLE	41		
+LENGTH		14		
+SUM			486		
+---------------------
+ANGLE		35		
+START ANGLE	22		
+END ANGLE	48		
+LENGTH		26		
+SUM			777		
+---------------------
+ANGLE		36		
+START ANGLE	22		
+END ANGLE	50		
+LENGTH		28		
+SUM			827		
+---------------------
+ANGLE		37		
+START ANGLE	22		
+END ANGLE	52		
+LENGTH		30		
+SUM			878		
+---------------------
+ANGLE		38		
+START ANGLE	30		
+END ANGLE	46		
+LENGTH		16		
+SUM			525		
+---------------------
+ANGLE		39		
+START ANGLE	31		
+END ANGLE	47		
+LENGTH		16		
+SUM			518		
+---------------------
+ANGLE		40		
+START ANGLE	31		
+END ANGLE	49		
+LENGTH		18		
+SUM			568		
+---------------------
+ANGLE		41		
+START ANGLE	31		
+END ANGLE	51		
+LENGTH		20		
+SUM			618		
+---------------------
+ANGLE		42		
+START ANGLE	32		
+END ANGLE	52		
+LENGTH		20		
+SUM			620		
+---------------------
+ANGLE		43		
+START ANGLE	42		
+END ANGLE	44		
+LENGTH		2		
+SUM			143		
+---------------------
+ANGLE		44		
+START ANGLE	32		
+END ANGLE	56		
+LENGTH		24		
+SUM			722		
+---------------------
+ANGLE		45		
+START ANGLE	33		
+END ANGLE	57		
+LENGTH		24		
+SUM			723		
+---------------------
+ANGLE		46		
+START ANGLE	33		
+END ANGLE	59		
+LENGTH		26		
+SUM			776		
+---------------------
+ANGLE		47		
+START ANGLE	-133	
+END ANGLE	227		
+LENGTH		360		
+SUM			11616	
+---------------------
+ANGLE		48		
+START ANGLE	47		
+END ANGLE	49		
+LENGTH		2		
+SUM			124		
+---------------------
+ANGLE		49		
+START ANGLE	47		
+END ANGLE	51		
+LENGTH		4		
+SUM			174		
+---------------------
+ANGLE		50		
+START ANGLE	48		
+END ANGLE	52		
+LENGTH		4		
+SUM			176		
+---------------------
+ANGLE		51		
+START ANGLE	50		
+END ANGLE	52		
+LENGTH		2		
+SUM			126		
+---------------------
+ANGLE		52		
+START ANGLE	50		
+END ANGLE	54		
+LENGTH		4		
+SUM			177		
+---------------------
+ANGLE		53		
+START ANGLE	52		
+END ANGLE	54		
+LENGTH		2		
+SUM			127		
+---------------------
+ANGLE		54		
+START ANGLE	52		
+END ANGLE	56		
+LENGTH		4		
+SUM			178		
+---------------------
+ANGLE		55		
+START ANGLE	53		
+END ANGLE	57		
+LENGTH		4		
+SUM			179		
+---------------------
+ANGLE		56		
+START ANGLE	55		
+END ANGLE	57		
+LENGTH		2		
+SUM			128		
+---------------------
+ANGLE		57		
+START ANGLE	55		
+END ANGLE	59		
+LENGTH		4		
+SUM			181		
+---------------------
+ANGLE		58		
+START ANGLE	57		
+END ANGLE	59		
+LENGTH		2		
+SUM			130		
+---------------------
+ANGLE		59		
+START ANGLE	27		
+END ANGLE	91		
+LENGTH		64		
+SUM			1859	
+---------------------
+ANGLE		60		
+START ANGLE	35		
+END ANGLE	85		
+LENGTH		50		
+SUM			1480	
+---------------------
+ANGLE		61		
+START ANGLE	58		
+END ANGLE	64		
+LENGTH		6		
+SUM			256		
+---------------------
+ANGLE		62		
+START ANGLE	61		
+END ANGLE	63		
+LENGTH		2		
+SUM			160		
+---------------------
+ANGLE		63		
+START ANGLE	-79		
+END ANGLE	205		
+LENGTH		284		
+SUM			8691	
+---------------------
+ANGLE		64		
+START ANGLE	60		
+END ANGLE	68		
+LENGTH		8		
+SUM			305		
+---------------------
+ANGLE		65		
+START ANGLE	43		
+END ANGLE	87		
+LENGTH		44		
+SUM			1312	
+---------------------
+ANGLE		66		
+START ANGLE	40		
+END ANGLE	92		
+LENGTH		52		
+SUM			1530	
+---------------------
+ANGLE		67		
+START ANGLE	58		
+END ANGLE	76		
+LENGTH		18		
+SUM			580		
+---------------------
+ANGLE		68		
+START ANGLE	67		
+END ANGLE	69		
+LENGTH		2		
+SUM			129		
+---------------------
+ANGLE		69		
+START ANGLE	-36		
+END ANGLE	174		
+LENGTH		210		
+SUM			6386	
+---------------------
+ANGLE		70		
+START ANGLE	64		
+END ANGLE	76		
+LENGTH		12		
+SUM			404		
+---------------------
+ANGLE		71		
+START ANGLE	28		
+END ANGLE	114		
+LENGTH		86		
+SUM			2679	
+---------------------
+ANGLE		72		
+START ANGLE	-108	
+END ANGLE	252		
+LENGTH		360		
+SUM			11625	
+---------------------
+ANGLE		73		
+START ANGLE	-107	
+END ANGLE	253		
+LENGTH		360		
+SUM			11631	
+---------------------
+ANGLE		74		
+START ANGLE	-26		
+END ANGLE	174		
+LENGTH		200		
+SUM			6112	
+---------------------
+ANGLE		75		
+START ANGLE	-23		
+END ANGLE	173		
+LENGTH		196		
+SUM			5987	
+---------------------
+ANGLE		76		
+START ANGLE	67		
+END ANGLE	85		
+LENGTH		18		
+SUM			604		
+---------------------
+ANGLE		77		
+START ANGLE	69		
+END ANGLE	85		
+LENGTH		16		
+SUM			558		
+---------------------
+ANGLE		78		
+START ANGLE	75		
+END ANGLE	81		
+LENGTH		6		
+SUM			276		
+---------------------
+ANGLE		79		
+START ANGLE	-88		
+END ANGLE	246		
+LENGTH		334		
+SUM			10688	
+---------------------
+ANGLE		80		
+START ANGLE	-26		
+END ANGLE	186		
+LENGTH		212		
+SUM			6528	
+---------------------
+ANGLE		81		
+START ANGLE	74		
+END ANGLE	88		
+LENGTH		14		
+SUM			521		
+---------------------
+ANGLE		82		
+START ANGLE	78		
+END ANGLE	86		
+LENGTH		8		
+SUM			340		
+---------------------
+ANGLE		83		
+START ANGLE	79		
+END ANGLE	87		
+LENGTH		8		
+SUM			344		
+---------------------
+ANGLE		84		
+START ANGLE	-79		
+END ANGLE	247		
+LENGTH		326		
+SUM			10456	
+---------------------
+ANGLE		85		
+START ANGLE	73		
+END ANGLE	97		
+LENGTH		24		
+SUM			786		
+---------------------
+ANGLE		86		
+START ANGLE	78		
+END ANGLE	94		
+LENGTH		16		
+SUM			554		
+---------------------
+ANGLE		87		
+START ANGLE	75		
+END ANGLE	99		
+LENGTH		24		
+SUM			818		
+---------------------
+ANGLE		88		
+START ANGLE	-28		
+END ANGLE	204		
+LENGTH		232		
+SUM			7241	
+---------------------
+ANGLE		89		
+START ANGLE	-103	
+END ANGLE	281		
+LENGTH		384		
+SUM			12634	
+---------------------
+ANGLE		90		
+START ANGLE	81		
+END ANGLE	99		
+LENGTH		18		
+SUM			640		
+---------------------
+ANGLE		91		
+START ANGLE	-101	
+END ANGLE	283		
+LENGTH		384		
+SUM			12634	
+---------------------
+ANGLE		92		
+START ANGLE	28		
+END ANGLE	156		
+LENGTH		128		
+SUM			4450	
+---------------------
+ANGLE		93		
+START ANGLE	-70		
+END ANGLE	256		
+LENGTH		326		
+SUM			10554	
+---------------------
+ANGLE		94		
+START ANGLE	73		
+END ANGLE	115		
+LENGTH		42		
+SUM			1498	
+---------------------
+ANGLE		95		
+START ANGLE	-119	
+END ANGLE	309		
+LENGTH		428		
+SUM			14459	
+---------------------
+ANGLE		96		
+START ANGLE	79		
+END ANGLE	113		
+LENGTH		34		
+SUM			1255	
+---------------------
+ANGLE		97		
+START ANGLE	37		
+END ANGLE	157		
+LENGTH		120		
+SUM			4238	
+---------------------
+ANGLE		98		
+START ANGLE	40		
+END ANGLE	156		
+LENGTH		116		
+SUM			4116	
+---------------------
+ANGLE		99		
+START ANGLE	83		
+END ANGLE	115		
+LENGTH		32		
+SUM			1202	
+---------------------
+ANGLE		100		
+START ANGLE	87		
+END ANGLE	113		
+LENGTH		26		
+SUM			1004	
+---------------------
+ANGLE		101		
+START ANGLE	88		
+END ANGLE	114		
+LENGTH		26		
+SUM			1005	
+---------------------
+ANGLE		102		
+START ANGLE	101		
+END ANGLE	103		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		103		
+START ANGLE	92		
+END ANGLE	114		
+LENGTH		22		
+SUM			910		
+---------------------
+ANGLE		104		
+START ANGLE	-150	
+END ANGLE	358		
+LENGTH		508		
+SUM			17703	
+---------------------
+ANGLE		105		
+START ANGLE	43		
+END ANGLE	167		
+LENGTH		124		
+SUM			4425	
+---------------------
+ANGLE		106		
+START ANGLE	97		
+END ANGLE	115		
+LENGTH		18		
+SUM			805		
+---------------------
+ANGLE		107		
+START ANGLE	-70		
+END ANGLE	284		
+LENGTH		354		
+SUM			11732	
+---------------------
+ANGLE		108		
+START ANGLE	-102	
+END ANGLE	318		
+LENGTH		420		
+SUM			14130	
+---------------------
+ANGLE		109		
+START ANGLE	106		
+END ANGLE	112		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		110		
+START ANGLE	109		
+END ANGLE	111		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		111		
+START ANGLE	36		
+END ANGLE	186		
+LENGTH		150		
+SUM			5305	
+---------------------
+ANGLE		112		
+START ANGLE	61		
+END ANGLE	163		
+LENGTH		102		
+SUM			3818	
+---------------------
+ANGLE		113		
+START ANGLE	63		
+END ANGLE	163		
+LENGTH		100		
+SUM			3755	
+---------------------
+ANGLE		114		
+START ANGLE	71		
+END ANGLE	157		
+LENGTH		86		
+SUM			3315	
+---------------------
+ANGLE		115		
+START ANGLE	74		
+END ANGLE	156		
+LENGTH		82		
+SUM			3202	
+---------------------
+ANGLE		116		
+START ANGLE	110		
+END ANGLE	122		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		117		
+START ANGLE	106		
+END ANGLE	128		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		118		
+START ANGLE	43		
+END ANGLE	193		
+LENGTH		150		
+SUM			5353	
+---------------------
+ANGLE		119		
+START ANGLE	101		
+END ANGLE	137		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		120		
+START ANGLE	119		
+END ANGLE	121		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		121		
+START ANGLE	100		
+END ANGLE	142		
+LENGTH		42		
+SUM			1869	
+---------------------
+ANGLE		122		
+START ANGLE	88		
+END ANGLE	156		
+LENGTH		68		
+SUM			2776	
+---------------------
+ANGLE		123		
+START ANGLE	79		
+END ANGLE	167		
+LENGTH		88		
+SUM			3457	
+---------------------
+ANGLE		124		
+START ANGLE	119		
+END ANGLE	129		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		125		
+START ANGLE	121		
+END ANGLE	129		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		126		
+START ANGLE	86		
+END ANGLE	166		
+LENGTH		80		
+SUM			3198	
+---------------------
+ANGLE		127		
+START ANGLE	87		
+END ANGLE	167		
+LENGTH		80		
+SUM			3206	
+---------------------
+ANGLE		128		
+START ANGLE	125		
+END ANGLE	131		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		129		
+START ANGLE	117		
+END ANGLE	141		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		130		
+START ANGLE	124		
+END ANGLE	136		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		131		
+START ANGLE	37		
+END ANGLE	225		
+LENGTH		188		
+SUM			6831	
+---------------------
+ANGLE		132		
+START ANGLE	112		
+END ANGLE	152		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		133		
+START ANGLE	-28		
+END ANGLE	294		
+LENGTH		322		
+SUM			10985	
+---------------------
+ANGLE		134		
+START ANGLE	113		
+END ANGLE	155		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		135		
+START ANGLE	130		
+END ANGLE	140		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		136		
+START ANGLE	103		
+END ANGLE	169		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		137		
+START ANGLE	71		
+END ANGLE	203		
+LENGTH		132		
+SUM			4971	
+---------------------
+ANGLE		138		
+START ANGLE	131		
+END ANGLE	145		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		139		
+START ANGLE	120		
+END ANGLE	158		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		140		
+START ANGLE	128		
+END ANGLE	152		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		141		
+START ANGLE	136		
+END ANGLE	146		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		142		
+START ANGLE	101		
+END ANGLE	183		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		143		
+START ANGLE	138		
+END ANGLE	148		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		144		
+START ANGLE	120		
+END ANGLE	168		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		145		
+START ANGLE	108		
+END ANGLE	182		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		146		
+START ANGLE	135		
+END ANGLE	157		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		147		
+START ANGLE	103		
+END ANGLE	191		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		148		
+START ANGLE	92		
+END ANGLE	204		
+LENGTH		112		
+SUM			4406	
+---------------------
+ANGLE		149		
+START ANGLE	134		
+END ANGLE	164		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		150		
+START ANGLE	-37		
+END ANGLE	337		
+LENGTH		374		
+SUM			13032	
+---------------------
+ANGLE		151		
+START ANGLE	-80		
+END ANGLE	382		
+LENGTH		462		
+SUM			15847	
+---------------------
+ANGLE		152		
+START ANGLE	134		
+END ANGLE	170		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		153		
+START ANGLE	147		
+END ANGLE	159		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		154		
+START ANGLE	143		
+END ANGLE	165		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		155		
+START ANGLE	26		
+END ANGLE	284		
+LENGTH		258		
+SUM			9579	
+---------------------
+ANGLE		156		
+START ANGLE	120		
+END ANGLE	192		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		157		
+START ANGLE	153		
+END ANGLE	161		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		158		
+START ANGLE	107		
+END ANGLE	209		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		159		
+START ANGLE	147		
+END ANGLE	171		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		160		
+START ANGLE	144		
+END ANGLE	176		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		161		
+START ANGLE	155		
+END ANGLE	167		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		162		
+START ANGLE	139		
+END ANGLE	185		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		163		
+START ANGLE	158		
+END ANGLE	168		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		164		
+START ANGLE	150		
+END ANGLE	178		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		165		
+START ANGLE	158		
+END ANGLE	172		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		166		
+START ANGLE	150		
+END ANGLE	182		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		167		
+START ANGLE	164		
+END ANGLE	170		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		168		
+START ANGLE	147		
+END ANGLE	189		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		169		
+START ANGLE	143		
+END ANGLE	195		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		170		
+START ANGLE	168		
+END ANGLE	172		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		171		
+START ANGLE	163		
+END ANGLE	179		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		172		
+START ANGLE	163		
+END ANGLE	181		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		173		
+START ANGLE	169		
+END ANGLE	177		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		174		
+START ANGLE	159		
+END ANGLE	189		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		175		
+START ANGLE	158		
+END ANGLE	192		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		176		
+START ANGLE	169		
+END ANGLE	183		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		177		
+START ANGLE	164		
+END ANGLE	190		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		178		
+START ANGLE	168		
+END ANGLE	188		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		179		
+START ANGLE	119		
+END ANGLE	239		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		180		
+START ANGLE	100		
+END ANGLE	260		
+LENGTH		160		
+SUM			6518	
+---------------------
+ANGLE		181		
+START ANGLE	121		
+END ANGLE	241		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		182		
+START ANGLE	172		
+END ANGLE	192		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		183		
+START ANGLE	170		
+END ANGLE	196		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		184		
+START ANGLE	177		
+END ANGLE	191		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		185		
+START ANGLE	168		
+END ANGLE	202		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		186		
+START ANGLE	171		
+END ANGLE	201		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		187		
+START ANGLE	183		
+END ANGLE	191		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		188		
+START ANGLE	179		
+END ANGLE	197		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		189		
+START ANGLE	181		
+END ANGLE	197		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		190		
+START ANGLE	188		
+END ANGLE	192		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		191		
+START ANGLE	165		
+END ANGLE	217		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		192		
+START ANGLE	171		
+END ANGLE	213		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		193		
+START ANGLE	190		
+END ANGLE	196		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		194		
+START ANGLE	178		
+END ANGLE	210		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		195		
+START ANGLE	188		
+END ANGLE	202		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		196		
+START ANGLE	182		
+END ANGLE	210		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		197		
+START ANGLE	192		
+END ANGLE	202		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		198		
+START ANGLE	175		
+END ANGLE	221		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		199		
+START ANGLE	193		
+END ANGLE	205		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		200		
+START ANGLE	184		
+END ANGLE	216		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		201		
+START ANGLE	189		
+END ANGLE	213		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		202		
+START ANGLE	151		
+END ANGLE	253		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		203		
+START ANGLE	199		
+END ANGLE	207		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		204		
+START ANGLE	168		
+END ANGLE	240		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		205		
+START ANGLE	142		
+END ANGLE	268		
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		206		
+START ANGLE	195		
+END ANGLE	217		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		207		
+START ANGLE	201		
+END ANGLE	213		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		208		
+START ANGLE	190		
+END ANGLE	226		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		209		
+START ANGLE	137		
+END ANGLE	281		
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		210		
+START ANGLE	141		
+END ANGLE	279		
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		211		
+START ANGLE	196		
+END ANGLE	226		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		212		
+START ANGLE	122		
+END ANGLE	302		
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		213		
+START ANGLE	169		
+END ANGLE	257		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		214		
+START ANGLE	203		
+END ANGLE	225		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		215		
+START ANGLE	178		
+END ANGLE	252		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		216		
+START ANGLE	192		
+END ANGLE	240		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		217		
+START ANGLE	212		
+END ANGLE	222		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		218		
+START ANGLE	177		
+END ANGLE	259		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		219		
+START ANGLE	214		
+END ANGLE	224		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		220		
+START ANGLE	208		
+END ANGLE	232		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		221		
+START ANGLE	202		
+END ANGLE	240		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		222		
+START ANGLE	215		
+END ANGLE	229		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		223		
+START ANGLE	133		
+END ANGLE	313		
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		224		
+START ANGLE	191		
+END ANGLE	257		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		225		
+START ANGLE	220		
+END ANGLE	230		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		226		
+START ANGLE	205		
+END ANGLE	247		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		227		
+START ANGLE	137		
+END ANGLE	317		
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		228		
+START ANGLE	208		
+END ANGLE	248		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		229		
+START ANGLE	196		
+END ANGLE	262		
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		230		
+START ANGLE	224		
+END ANGLE	236		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		231		
+START ANGLE	219		
+END ANGLE	243		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		232		
+START ANGLE	229		
+END ANGLE	235		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		233		
+START ANGLE	183		
+END ANGLE	283		
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		234		
+START ANGLE	195		
+END ANGLE	273		
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		235		
+START ANGLE	231		
+END ANGLE	239		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		236		
+START ANGLE	231		
+END ANGLE	241		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		237		
+START ANGLE	211		
+END ANGLE	263		
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		238		
+START ANGLE	148		
+END ANGLE	328		
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		239		
+START ANGLE	218		
+END ANGLE	260		
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		240		
+START ANGLE	239		
+END ANGLE	241		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		241		
+START ANGLE	223		
+END ANGLE	259		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		242		
+START ANGLE	220		
+END ANGLE	264		
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		243		
+START ANGLE	232		
+END ANGLE	254		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		244		
+START ANGLE	238		
+END ANGLE	250		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		245		
+START ANGLE	217		
+END ANGLE	273		
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		246		
+START ANGLE	192		
+END ANGLE	300		
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		247		
+START ANGLE	230		
+END ANGLE	264		
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		248		
+START ANGLE	233		
+END ANGLE	263		
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		249		
+START ANGLE	218		
+END ANGLE	280		
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		250		
+START ANGLE	249		
+END ANGLE	251		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		251		
+START ANGLE	248		
+END ANGLE	254		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		252		
+START ANGLE	243		
+END ANGLE	261		
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		253		
+START ANGLE	230		
+END ANGLE	276		
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		254		
+START ANGLE	234		
+END ANGLE	274		
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		255		
+START ANGLE	233		
+END ANGLE	277		
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		256		
+START ANGLE	182		
+END ANGLE	330		
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		257		
+START ANGLE	170		
+END ANGLE	344		
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		258		
+START ANGLE	257		
+END ANGLE	259		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		259		
+START ANGLE	253		
+END ANGLE	265		
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		260		
+START ANGLE	215		
+END ANGLE	305		
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		261		
+START ANGLE	243		
+END ANGLE	279		
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		262		
+START ANGLE	232		
+END ANGLE	292		
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		263		
+START ANGLE	215		
+END ANGLE	311		
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		264		
+START ANGLE	260		
+END ANGLE	268		
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		265		
+START ANGLE	231		
+END ANGLE	299		
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		266		
+START ANGLE	260		
+END ANGLE	272		
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		267		
+START ANGLE	248		
+END ANGLE	286		
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		268		
+START ANGLE	188		
+END ANGLE	348		
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		269		
+START ANGLE	257		
+END ANGLE	281		
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		270		
+START ANGLE	100		
+END ANGLE	440		
+LENGTH		340		
+SUM			13758	
+---------------------
+ANGLE		271		
+START ANGLE	259		
+END ANGLE	283		
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		272		
+START ANGLE	192		
+END ANGLE	352		
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		273		
+START ANGLE	254		
+END ANGLE	292		
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		274		
+START ANGLE	268		
+END ANGLE	280		
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		275		
+START ANGLE	241		
+END ANGLE	309		
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		276		
+START ANGLE	272		
+END ANGLE	280		
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		277		
+START ANGLE	229		
+END ANGLE	325		
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		278		
+START ANGLE	248		
+END ANGLE	308		
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		279		
+START ANGLE	261		
+END ANGLE	297		
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		280		
+START ANGLE	235		
+END ANGLE	325		
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		281		
+START ANGLE	275		
+END ANGLE	287		
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		282		
+START ANGLE	281		
+END ANGLE	283		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		283		
+START ANGLE	196		
+END ANGLE	370		
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		284		
+START ANGLE	210		
+END ANGLE	358		
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		285		
+START ANGLE	263		
+END ANGLE	307		
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		286		
+START ANGLE	266		
+END ANGLE	306		
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		287		
+START ANGLE	264		
+END ANGLE	310		
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		288		
+START ANGLE	279		
+END ANGLE	297		
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		289		
+START ANGLE	286		
+END ANGLE	292		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		290		
+START ANGLE	289		
+END ANGLE	291		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		291		
+START ANGLE	260		
+END ANGLE	322		
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		292		
+START ANGLE	277		
+END ANGLE	307		
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		293		
+START ANGLE	276		
+END ANGLE	310		
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		294		
+START ANGLE	240		
+END ANGLE	348		
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		295		
+START ANGLE	267		
+END ANGLE	323		
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		296		
+START ANGLE	290		
+END ANGLE	302		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		297		
+START ANGLE	286		
+END ANGLE	308		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		298		
+START ANGLE	276		
+END ANGLE	320		
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		299		
+START ANGLE	281		
+END ANGLE	317		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		300		
+START ANGLE	299		
+END ANGLE	301		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		301		
+START ANGLE	280		
+END ANGLE	322		
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		302		
+START ANGLE	212		
+END ANGLE	392		
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		303		
+START ANGLE	277		
+END ANGLE	329		
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		304		
+START ANGLE	299		
+END ANGLE	309		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		305		
+START ANGLE	301		
+END ANGLE	309		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		306		
+START ANGLE	267		
+END ANGLE	345		
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		307		
+START ANGLE	257		
+END ANGLE	357		
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		308		
+START ANGLE	305		
+END ANGLE	311		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		309		
+START ANGLE	297		
+END ANGLE	321		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		310		
+START ANGLE	304		
+END ANGLE	316		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		311		
+START ANGLE	278		
+END ANGLE	344		
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		312		
+START ANGLE	292		
+END ANGLE	332		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		313		
+START ANGLE	223		
+END ANGLE	403		
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		314		
+START ANGLE	293		
+END ANGLE	335		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		315		
+START ANGLE	310		
+END ANGLE	320		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		316		
+START ANGLE	283		
+END ANGLE	349		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		317		
+START ANGLE	227		
+END ANGLE	407		
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		318		
+START ANGLE	311		
+END ANGLE	325		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		319		
+START ANGLE	300		
+END ANGLE	338		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		320		
+START ANGLE	308		
+END ANGLE	332		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		321		
+START ANGLE	316		
+END ANGLE	326		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		322		
+START ANGLE	281		
+END ANGLE	363		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		323		
+START ANGLE	318		
+END ANGLE	328		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		324		
+START ANGLE	300		
+END ANGLE	348		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		325		
+START ANGLE	288		
+END ANGLE	362		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		326		
+START ANGLE	315		
+END ANGLE	337		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		327		
+START ANGLE	283		
+END ANGLE	371		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		328		
+START ANGLE	238		
+END ANGLE	418		
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		329		
+START ANGLE	314		
+END ANGLE	344		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		330		
+START ANGLE	261		
+END ANGLE	399		
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		331		
+START ANGLE	259		
+END ANGLE	403		
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		332		
+START ANGLE	314		
+END ANGLE	350		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		333		
+START ANGLE	327		
+END ANGLE	339		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		334		
+START ANGLE	323		
+END ANGLE	345		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		335		
+START ANGLE	272		
+END ANGLE	398		
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		336		
+START ANGLE	300		
+END ANGLE	372		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		337		
+START ANGLE	333		
+END ANGLE	341		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		338		
+START ANGLE	287		
+END ANGLE	389		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		339		
+START ANGLE	327		
+END ANGLE	351		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		340		
+START ANGLE	324		
+END ANGLE	356		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		341		
+START ANGLE	335		
+END ANGLE	347		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		342		
+START ANGLE	319		
+END ANGLE	365		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		343		
+START ANGLE	338		
+END ANGLE	348		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		344		
+START ANGLE	330		
+END ANGLE	358		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		345		
+START ANGLE	338		
+END ANGLE	352		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		346		
+START ANGLE	330		
+END ANGLE	362		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		347		
+START ANGLE	344		
+END ANGLE	350		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		348		
+START ANGLE	327		
+END ANGLE	369		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		349		
+START ANGLE	323		
+END ANGLE	375		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		350		
+START ANGLE	348		
+END ANGLE	352		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		351		
+START ANGLE	343		
+END ANGLE	359		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		352		
+START ANGLE	343		
+END ANGLE	361		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		353		
+START ANGLE	349		
+END ANGLE	357		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		354		
+START ANGLE	339		
+END ANGLE	369		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		355		
+START ANGLE	338		
+END ANGLE	372		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		356		
+START ANGLE	349		
+END ANGLE	363		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		357		
+START ANGLE	344		
+END ANGLE	370		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		358		
+START ANGLE	348		
+END ANGLE	368		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		359		
+START ANGLE	299		
+END ANGLE	419		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		360		
+START ANGLE	100		
+END ANGLE	620		
+LENGTH		520		
+SUM			20998	
+---------------------
+ANGLE		361		
+START ANGLE	301		
+END ANGLE	421		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		362		
+START ANGLE	352		
+END ANGLE	372		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		363		
+START ANGLE	350		
+END ANGLE	376		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		364		
+START ANGLE	357		
+END ANGLE	371		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		365		
+START ANGLE	348		
+END ANGLE	382		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		366		
+START ANGLE	351		
+END ANGLE	381		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		367		
+START ANGLE	363		
+END ANGLE	371		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		368		
+START ANGLE	359		
+END ANGLE	377		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		369		
+START ANGLE	361		
+END ANGLE	377		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		370		
+START ANGLE	368		
+END ANGLE	372		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		371		
+START ANGLE	345		
+END ANGLE	397		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		372		
+START ANGLE	351		
+END ANGLE	393		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		373		
+START ANGLE	370		
+END ANGLE	376		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		374		
+START ANGLE	358		
+END ANGLE	390		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		375		
+START ANGLE	368		
+END ANGLE	382		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		376		
+START ANGLE	362		
+END ANGLE	390		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		377		
+START ANGLE	372		
+END ANGLE	382		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		378		
+START ANGLE	355		
+END ANGLE	401		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		379		
+START ANGLE	373		
+END ANGLE	385		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		380		
+START ANGLE	364		
+END ANGLE	396		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		381		
+START ANGLE	369		
+END ANGLE	393		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		382		
+START ANGLE	331		
+END ANGLE	433		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		383		
+START ANGLE	379		
+END ANGLE	387		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		384		
+START ANGLE	348		
+END ANGLE	420		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		385		
+START ANGLE	322		
+END ANGLE	448		
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		386		
+START ANGLE	375		
+END ANGLE	397		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		387		
+START ANGLE	381		
+END ANGLE	393		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		388		
+START ANGLE	370		
+END ANGLE	406		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		389		
+START ANGLE	317		
+END ANGLE	461		
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		390		
+START ANGLE	321		
+END ANGLE	459		
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		391		
+START ANGLE	376		
+END ANGLE	406		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		392		
+START ANGLE	302		
+END ANGLE	482		
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		393		
+START ANGLE	349		
+END ANGLE	437		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		394		
+START ANGLE	383		
+END ANGLE	405		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		395		
+START ANGLE	358		
+END ANGLE	432		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		396		
+START ANGLE	372		
+END ANGLE	420		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		397		
+START ANGLE	392		
+END ANGLE	402		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		398		
+START ANGLE	357		
+END ANGLE	439		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		399		
+START ANGLE	394		
+END ANGLE	404		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		400		
+START ANGLE	388		
+END ANGLE	412		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		401		
+START ANGLE	382		
+END ANGLE	420		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		402		
+START ANGLE	395		
+END ANGLE	409		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		403		
+START ANGLE	313		
+END ANGLE	493		
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		404		
+START ANGLE	371		
+END ANGLE	437		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		405		
+START ANGLE	400		
+END ANGLE	410		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		406		
+START ANGLE	385		
+END ANGLE	427		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		407		
+START ANGLE	317		
+END ANGLE	497		
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		408		
+START ANGLE	388		
+END ANGLE	428		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		409		
+START ANGLE	376		
+END ANGLE	442		
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		410		
+START ANGLE	404		
+END ANGLE	416		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		411		
+START ANGLE	399		
+END ANGLE	423		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		412		
+START ANGLE	409		
+END ANGLE	415		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		413		
+START ANGLE	363		
+END ANGLE	463		
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		414		
+START ANGLE	375		
+END ANGLE	453		
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		415		
+START ANGLE	411		
+END ANGLE	419		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		416		
+START ANGLE	411		
+END ANGLE	421		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		417		
+START ANGLE	391		
+END ANGLE	443		
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		418		
+START ANGLE	328		
+END ANGLE	508		
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		419		
+START ANGLE	398		
+END ANGLE	440		
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		420		
+START ANGLE	419		
+END ANGLE	421		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		421		
+START ANGLE	403		
+END ANGLE	439		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		422		
+START ANGLE	400		
+END ANGLE	444		
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		423		
+START ANGLE	412		
+END ANGLE	434		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		424		
+START ANGLE	418		
+END ANGLE	430		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		425		
+START ANGLE	397		
+END ANGLE	453		
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		426		
+START ANGLE	372		
+END ANGLE	480		
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		427		
+START ANGLE	410		
+END ANGLE	444		
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		428		
+START ANGLE	413		
+END ANGLE	443		
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		429		
+START ANGLE	398		
+END ANGLE	460		
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		430		
+START ANGLE	429		
+END ANGLE	431		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		431		
+START ANGLE	428		
+END ANGLE	434		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		432		
+START ANGLE	423		
+END ANGLE	441		
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		433		
+START ANGLE	410		
+END ANGLE	456		
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		434		
+START ANGLE	414		
+END ANGLE	454		
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		435		
+START ANGLE	413		
+END ANGLE	457		
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		436		
+START ANGLE	362		
+END ANGLE	510		
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		437		
+START ANGLE	350		
+END ANGLE	524		
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		438		
+START ANGLE	437		
+END ANGLE	439		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		439		
+START ANGLE	433		
+END ANGLE	445		
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		440		
+START ANGLE	395		
+END ANGLE	485		
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		441		
+START ANGLE	423		
+END ANGLE	459		
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		442		
+START ANGLE	412		
+END ANGLE	472		
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		443		
+START ANGLE	395		
+END ANGLE	491		
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		444		
+START ANGLE	440		
+END ANGLE	448		
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		445		
+START ANGLE	411		
+END ANGLE	479		
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		446		
+START ANGLE	440		
+END ANGLE	452		
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		447		
+START ANGLE	428		
+END ANGLE	466		
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		448		
+START ANGLE	368		
+END ANGLE	528		
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		449		
+START ANGLE	437		
+END ANGLE	461		
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		450		
+START ANGLE	100		
+END ANGLE	800		
+LENGTH		700		
+SUM			28238	
+---------------------
+ANGLE		451		
+START ANGLE	439		
+END ANGLE	463		
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		452		
+START ANGLE	372		
+END ANGLE	532		
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		453		
+START ANGLE	434		
+END ANGLE	472		
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		454		
+START ANGLE	448		
+END ANGLE	460		
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		455		
+START ANGLE	421		
+END ANGLE	489		
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		456		
+START ANGLE	452		
+END ANGLE	460		
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		457		
+START ANGLE	409		
+END ANGLE	505		
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		458		
+START ANGLE	428		
+END ANGLE	488		
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		459		
+START ANGLE	441		
+END ANGLE	477		
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		460		
+START ANGLE	415		
+END ANGLE	505		
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		461		
+START ANGLE	455		
+END ANGLE	467		
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		462		
+START ANGLE	461		
+END ANGLE	463		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		463		
+START ANGLE	376		
+END ANGLE	550		
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		464		
+START ANGLE	390		
+END ANGLE	538		
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		465		
+START ANGLE	443		
+END ANGLE	487		
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		466		
+START ANGLE	446		
+END ANGLE	486		
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		467		
+START ANGLE	444		
+END ANGLE	490		
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		468		
+START ANGLE	459		
+END ANGLE	477		
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		469		
+START ANGLE	466		
+END ANGLE	472		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		470		
+START ANGLE	469		
+END ANGLE	471		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		471		
+START ANGLE	440		
+END ANGLE	502		
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		472		
+START ANGLE	457		
+END ANGLE	487		
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		473		
+START ANGLE	456		
+END ANGLE	490		
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		474		
+START ANGLE	420		
+END ANGLE	528		
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		475		
+START ANGLE	447		
+END ANGLE	503		
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		476		
+START ANGLE	470		
+END ANGLE	482		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		477		
+START ANGLE	466		
+END ANGLE	488		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		478		
+START ANGLE	456		
+END ANGLE	500		
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		479		
+START ANGLE	461		
+END ANGLE	497		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		480		
+START ANGLE	479		
+END ANGLE	481		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		481		
+START ANGLE	460		
+END ANGLE	502		
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		482		
+START ANGLE	392		
+END ANGLE	572		
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		483		
+START ANGLE	457		
+END ANGLE	509		
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		484		
+START ANGLE	479		
+END ANGLE	489		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		485		
+START ANGLE	481		
+END ANGLE	489		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		486		
+START ANGLE	447		
+END ANGLE	525		
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		487		
+START ANGLE	437		
+END ANGLE	537		
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		488		
+START ANGLE	485		
+END ANGLE	491		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		489		
+START ANGLE	477		
+END ANGLE	501		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		490		
+START ANGLE	484		
+END ANGLE	496		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		491		
+START ANGLE	458		
+END ANGLE	524		
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		492		
+START ANGLE	472		
+END ANGLE	512		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		493		
+START ANGLE	403		
+END ANGLE	583		
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		494		
+START ANGLE	473		
+END ANGLE	515		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		495		
+START ANGLE	490		
+END ANGLE	500		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		496		
+START ANGLE	463		
+END ANGLE	529		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		497		
+START ANGLE	407		
+END ANGLE	587		
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		498		
+START ANGLE	491		
+END ANGLE	505		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		499		
+START ANGLE	480		
+END ANGLE	518		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		500		
+START ANGLE	488		
+END ANGLE	512		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		501		
+START ANGLE	496		
+END ANGLE	506		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		502		
+START ANGLE	461		
+END ANGLE	543		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		503		
+START ANGLE	498		
+END ANGLE	508		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		504		
+START ANGLE	480		
+END ANGLE	528		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		505		
+START ANGLE	468		
+END ANGLE	542		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		506		
+START ANGLE	495		
+END ANGLE	517		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		507		
+START ANGLE	463		
+END ANGLE	551		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		508		
+START ANGLE	418		
+END ANGLE	598		
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		509		
+START ANGLE	494		
+END ANGLE	524		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		510		
+START ANGLE	441		
+END ANGLE	579		
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		511		
+START ANGLE	439		
+END ANGLE	583		
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		512		
+START ANGLE	494		
+END ANGLE	530		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		513		
+START ANGLE	507		
+END ANGLE	519		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		514		
+START ANGLE	503		
+END ANGLE	525		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		515		
+START ANGLE	452		
+END ANGLE	578		
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		516		
+START ANGLE	480		
+END ANGLE	552		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		517		
+START ANGLE	513		
+END ANGLE	521		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		518		
+START ANGLE	467		
+END ANGLE	569		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		519		
+START ANGLE	507		
+END ANGLE	531		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		520		
+START ANGLE	504		
+END ANGLE	536		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		521		
+START ANGLE	515		
+END ANGLE	527		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		522		
+START ANGLE	499		
+END ANGLE	545		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		523		
+START ANGLE	518		
+END ANGLE	528		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		524		
+START ANGLE	510		
+END ANGLE	538		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		525		
+START ANGLE	518		
+END ANGLE	532		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		526		
+START ANGLE	510		
+END ANGLE	542		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		527		
+START ANGLE	524		
+END ANGLE	530		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		528		
+START ANGLE	507		
+END ANGLE	549		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		529		
+START ANGLE	503		
+END ANGLE	555		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		530		
+START ANGLE	528		
+END ANGLE	532		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		531		
+START ANGLE	523		
+END ANGLE	539		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		532		
+START ANGLE	523		
+END ANGLE	541		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		533		
+START ANGLE	529		
+END ANGLE	537		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		534		
+START ANGLE	519		
+END ANGLE	549		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		535		
+START ANGLE	518		
+END ANGLE	552		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		536		
+START ANGLE	529		
+END ANGLE	543		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		537		
+START ANGLE	524		
+END ANGLE	550		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		538		
+START ANGLE	528		
+END ANGLE	548		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		539		
+START ANGLE	479		
+END ANGLE	599		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		540		
+START ANGLE	100		
+END ANGLE	980		
+LENGTH		880		
+SUM			35478	
+---------------------
+ANGLE		541		
+START ANGLE	481		
+END ANGLE	601		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		542		
+START ANGLE	532		
+END ANGLE	552		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		543		
+START ANGLE	530		
+END ANGLE	556		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		544		
+START ANGLE	537		
+END ANGLE	551		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		545		
+START ANGLE	528		
+END ANGLE	562		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		546		
+START ANGLE	531		
+END ANGLE	561		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		547		
+START ANGLE	543		
+END ANGLE	551		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		548		
+START ANGLE	539		
+END ANGLE	557		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		549		
+START ANGLE	541		
+END ANGLE	557		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		550		
+START ANGLE	548		
+END ANGLE	552		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		551		
+START ANGLE	525		
+END ANGLE	577		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		552		
+START ANGLE	531		
+END ANGLE	573		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		553		
+START ANGLE	550		
+END ANGLE	556		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		554		
+START ANGLE	538		
+END ANGLE	570		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		555		
+START ANGLE	548		
+END ANGLE	562		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		556		
+START ANGLE	542		
+END ANGLE	570		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		557		
+START ANGLE	552		
+END ANGLE	562		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		558		
+START ANGLE	535		
+END ANGLE	581		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		559		
+START ANGLE	553		
+END ANGLE	565		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		560		
+START ANGLE	544		
+END ANGLE	576		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		561		
+START ANGLE	549		
+END ANGLE	573		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		562		
+START ANGLE	511		
+END ANGLE	613		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		563		
+START ANGLE	559		
+END ANGLE	567		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		564		
+START ANGLE	528		
+END ANGLE	600		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		565		
+START ANGLE	502		
+END ANGLE	628		
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		566		
+START ANGLE	555		
+END ANGLE	577		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		567		
+START ANGLE	561		
+END ANGLE	573		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		568		
+START ANGLE	550		
+END ANGLE	586		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		569		
+START ANGLE	497		
+END ANGLE	641		
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		570		
+START ANGLE	501		
+END ANGLE	639		
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		571		
+START ANGLE	556		
+END ANGLE	586		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		572		
+START ANGLE	482		
+END ANGLE	662		
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		573		
+START ANGLE	529		
+END ANGLE	617		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		574		
+START ANGLE	563		
+END ANGLE	585		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		575		
+START ANGLE	538		
+END ANGLE	612		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		576		
+START ANGLE	552		
+END ANGLE	600		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		577		
+START ANGLE	572		
+END ANGLE	582		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		578		
+START ANGLE	537		
+END ANGLE	619		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		579		
+START ANGLE	574		
+END ANGLE	584		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		580		
+START ANGLE	568		
+END ANGLE	592		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		581		
+START ANGLE	562		
+END ANGLE	600		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		582		
+START ANGLE	575		
+END ANGLE	589		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		583		
+START ANGLE	493		
+END ANGLE	673		
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		584		
+START ANGLE	551		
+END ANGLE	617		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		585		
+START ANGLE	580		
+END ANGLE	590		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		586		
+START ANGLE	565		
+END ANGLE	607		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		587		
+START ANGLE	497		
+END ANGLE	677		
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		588		
+START ANGLE	568		
+END ANGLE	608		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		589		
+START ANGLE	556		
+END ANGLE	622		
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		590		
+START ANGLE	584		
+END ANGLE	596		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		591		
+START ANGLE	579		
+END ANGLE	603		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		592		
+START ANGLE	589		
+END ANGLE	595		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		593		
+START ANGLE	543		
+END ANGLE	643		
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		594		
+START ANGLE	555		
+END ANGLE	633		
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		595		
+START ANGLE	591		
+END ANGLE	599		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		596		
+START ANGLE	591		
+END ANGLE	601		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		597		
+START ANGLE	571		
+END ANGLE	623		
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		598		
+START ANGLE	508		
+END ANGLE	688		
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		599		
+START ANGLE	578		
+END ANGLE	620		
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		600		
+START ANGLE	599		
+END ANGLE	601		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		601		
+START ANGLE	583		
+END ANGLE	619		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		602		
+START ANGLE	580		
+END ANGLE	624		
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		603		
+START ANGLE	592		
+END ANGLE	614		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		604		
+START ANGLE	598		
+END ANGLE	610		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		605		
+START ANGLE	577		
+END ANGLE	633		
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		606		
+START ANGLE	552		
+END ANGLE	660		
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		607		
+START ANGLE	590		
+END ANGLE	624		
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		608		
+START ANGLE	593		
+END ANGLE	623		
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		609		
+START ANGLE	578		
+END ANGLE	640		
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		610		
+START ANGLE	609		
+END ANGLE	611		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		611		
+START ANGLE	608		
+END ANGLE	614		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		612		
+START ANGLE	603		
+END ANGLE	621		
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		613		
+START ANGLE	590		
+END ANGLE	636		
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		614		
+START ANGLE	594		
+END ANGLE	634		
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		615		
+START ANGLE	593		
+END ANGLE	637		
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		616		
+START ANGLE	542		
+END ANGLE	690		
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		617		
+START ANGLE	530		
+END ANGLE	704		
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		618		
+START ANGLE	617		
+END ANGLE	619		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		619		
+START ANGLE	613		
+END ANGLE	625		
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		620		
+START ANGLE	575		
+END ANGLE	665		
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		621		
+START ANGLE	603		
+END ANGLE	639		
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		622		
+START ANGLE	592		
+END ANGLE	652		
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		623		
+START ANGLE	575		
+END ANGLE	671		
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		624		
+START ANGLE	620		
+END ANGLE	628		
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		625		
+START ANGLE	591		
+END ANGLE	659		
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		626		
+START ANGLE	620		
+END ANGLE	632		
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		627		
+START ANGLE	608		
+END ANGLE	646		
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		628		
+START ANGLE	548		
+END ANGLE	708		
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		629		
+START ANGLE	617		
+END ANGLE	641		
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		630		
+START ANGLE	261		
+END ANGLE	999		
+LENGTH		738		
+SUM			29810	
+---------------------
+ANGLE		631		
+START ANGLE	619		
+END ANGLE	643		
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		632		
+START ANGLE	552		
+END ANGLE	712		
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		633		
+START ANGLE	614		
+END ANGLE	652		
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		634		
+START ANGLE	628		
+END ANGLE	640		
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		635		
+START ANGLE	601		
+END ANGLE	669		
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		636		
+START ANGLE	632		
+END ANGLE	640		
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		637		
+START ANGLE	589		
+END ANGLE	685		
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		638		
+START ANGLE	608		
+END ANGLE	668		
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		639		
+START ANGLE	621		
+END ANGLE	657		
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		640		
+START ANGLE	595		
+END ANGLE	685		
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		641		
+START ANGLE	635		
+END ANGLE	647		
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		642		
+START ANGLE	641		
+END ANGLE	643		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		643		
+START ANGLE	556		
+END ANGLE	730		
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		644		
+START ANGLE	570		
+END ANGLE	718		
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		645		
+START ANGLE	623		
+END ANGLE	667		
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		646		
+START ANGLE	626		
+END ANGLE	666		
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		647		
+START ANGLE	624		
+END ANGLE	670		
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		648		
+START ANGLE	639		
+END ANGLE	657		
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		649		
+START ANGLE	646		
+END ANGLE	652		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		650		
+START ANGLE	649		
+END ANGLE	651		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		651		
+START ANGLE	620		
+END ANGLE	682		
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		652		
+START ANGLE	637		
+END ANGLE	667		
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		653		
+START ANGLE	636		
+END ANGLE	670		
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		654		
+START ANGLE	600		
+END ANGLE	708		
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		655		
+START ANGLE	627		
+END ANGLE	683		
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		656		
+START ANGLE	650		
+END ANGLE	662		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		657		
+START ANGLE	646		
+END ANGLE	668		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		658		
+START ANGLE	636		
+END ANGLE	680		
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		659		
+START ANGLE	641		
+END ANGLE	677		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		660		
+START ANGLE	659		
+END ANGLE	661		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		661		
+START ANGLE	640		
+END ANGLE	682		
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		662		
+START ANGLE	572		
+END ANGLE	752		
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		663		
+START ANGLE	637		
+END ANGLE	689		
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		664		
+START ANGLE	659		
+END ANGLE	669		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		665		
+START ANGLE	661		
+END ANGLE	669		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		666		
+START ANGLE	627		
+END ANGLE	705		
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		667		
+START ANGLE	617		
+END ANGLE	717		
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		668		
+START ANGLE	665		
+END ANGLE	671		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		669		
+START ANGLE	657		
+END ANGLE	681		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		670		
+START ANGLE	664		
+END ANGLE	676		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		671		
+START ANGLE	638		
+END ANGLE	704		
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		672		
+START ANGLE	652		
+END ANGLE	692		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		673		
+START ANGLE	583		
+END ANGLE	763		
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		674		
+START ANGLE	653		
+END ANGLE	695		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		675		
+START ANGLE	670		
+END ANGLE	680		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		676		
+START ANGLE	643		
+END ANGLE	709		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		677		
+START ANGLE	587		
+END ANGLE	767		
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		678		
+START ANGLE	671		
+END ANGLE	685		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		679		
+START ANGLE	660		
+END ANGLE	698		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		680		
+START ANGLE	668		
+END ANGLE	692		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		681		
+START ANGLE	676		
+END ANGLE	686		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		682		
+START ANGLE	641		
+END ANGLE	723		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		683		
+START ANGLE	678		
+END ANGLE	688		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		684		
+START ANGLE	660		
+END ANGLE	708		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		685		
+START ANGLE	648		
+END ANGLE	722		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		686		
+START ANGLE	675		
+END ANGLE	697		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		687		
+START ANGLE	643		
+END ANGLE	731		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		688		
+START ANGLE	598		
+END ANGLE	778		
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		689		
+START ANGLE	674		
+END ANGLE	704		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		690		
+START ANGLE	621		
+END ANGLE	759		
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		691		
+START ANGLE	619		
+END ANGLE	763		
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		692		
+START ANGLE	674		
+END ANGLE	710		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		693		
+START ANGLE	687		
+END ANGLE	699		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		694		
+START ANGLE	683		
+END ANGLE	705		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		695		
+START ANGLE	632		
+END ANGLE	758		
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		696		
+START ANGLE	660		
+END ANGLE	732		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		697		
+START ANGLE	693		
+END ANGLE	701		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		698		
+START ANGLE	647		
+END ANGLE	749		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		699		
+START ANGLE	687		
+END ANGLE	711		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		700		
+START ANGLE	684		
+END ANGLE	716		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		701		
+START ANGLE	695		
+END ANGLE	707		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		702		
+START ANGLE	679		
+END ANGLE	725		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		703		
+START ANGLE	698		
+END ANGLE	708		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		704		
+START ANGLE	690		
+END ANGLE	718		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		705		
+START ANGLE	698		
+END ANGLE	712		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		706		
+START ANGLE	690		
+END ANGLE	722		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		707		
+START ANGLE	704		
+END ANGLE	710		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		708		
+START ANGLE	687		
+END ANGLE	729		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		709		
+START ANGLE	683		
+END ANGLE	735		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		710		
+START ANGLE	708		
+END ANGLE	712		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		711		
+START ANGLE	703		
+END ANGLE	719		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		712		
+START ANGLE	703		
+END ANGLE	721		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		713		
+START ANGLE	709		
+END ANGLE	717		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		714		
+START ANGLE	699		
+END ANGLE	729		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		715		
+START ANGLE	698		
+END ANGLE	732		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		716		
+START ANGLE	709		
+END ANGLE	723		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		717		
+START ANGLE	704		
+END ANGLE	730		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		718		
+START ANGLE	708		
+END ANGLE	728		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		719		
+START ANGLE	659		
+END ANGLE	779		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		720		
+START ANGLE	441		
+END ANGLE	999		
+LENGTH		558		
+SUM			22570	
+---------------------
+ANGLE		721		
+START ANGLE	661		
+END ANGLE	781		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		722		
+START ANGLE	712		
+END ANGLE	732		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		723		
+START ANGLE	710		
+END ANGLE	736		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		724		
+START ANGLE	717		
+END ANGLE	731		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		725		
+START ANGLE	708		
+END ANGLE	742		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		726		
+START ANGLE	711		
+END ANGLE	741		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		727		
+START ANGLE	723		
+END ANGLE	731		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		728		
+START ANGLE	719		
+END ANGLE	737		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		729		
+START ANGLE	721		
+END ANGLE	737		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		730		
+START ANGLE	728		
+END ANGLE	732		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		731		
+START ANGLE	705		
+END ANGLE	757		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		732		
+START ANGLE	711		
+END ANGLE	753		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		733		
+START ANGLE	730		
+END ANGLE	736		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		734		
+START ANGLE	718		
+END ANGLE	750		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		735		
+START ANGLE	728		
+END ANGLE	742		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		736		
+START ANGLE	722		
+END ANGLE	750		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		737		
+START ANGLE	732		
+END ANGLE	742		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		738		
+START ANGLE	715		
+END ANGLE	761		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		739		
+START ANGLE	733		
+END ANGLE	745		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		740		
+START ANGLE	724		
+END ANGLE	756		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		741		
+START ANGLE	729		
+END ANGLE	753		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		742		
+START ANGLE	691		
+END ANGLE	793		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		743		
+START ANGLE	739		
+END ANGLE	747		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		744		
+START ANGLE	708		
+END ANGLE	780		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		745		
+START ANGLE	682		
+END ANGLE	808		
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		746		
+START ANGLE	735		
+END ANGLE	757		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		747		
+START ANGLE	741		
+END ANGLE	753		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		748		
+START ANGLE	730		
+END ANGLE	766		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		749		
+START ANGLE	677		
+END ANGLE	821		
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		750		
+START ANGLE	681		
+END ANGLE	819		
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		751		
+START ANGLE	736		
+END ANGLE	766		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		752		
+START ANGLE	662		
+END ANGLE	842		
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		753		
+START ANGLE	709		
+END ANGLE	797		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		754		
+START ANGLE	743		
+END ANGLE	765		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		755		
+START ANGLE	718		
+END ANGLE	792		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		756		
+START ANGLE	732		
+END ANGLE	780		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		757		
+START ANGLE	752		
+END ANGLE	762		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		758		
+START ANGLE	717		
+END ANGLE	799		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		759		
+START ANGLE	754		
+END ANGLE	764		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		760		
+START ANGLE	748		
+END ANGLE	772		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		761		
+START ANGLE	742		
+END ANGLE	780		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		762		
+START ANGLE	755		
+END ANGLE	769		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		763		
+START ANGLE	673		
+END ANGLE	853		
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		764		
+START ANGLE	731		
+END ANGLE	797		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		765		
+START ANGLE	760		
+END ANGLE	770		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		766		
+START ANGLE	745		
+END ANGLE	787		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		767		
+START ANGLE	677		
+END ANGLE	857		
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		768		
+START ANGLE	748		
+END ANGLE	788		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		769		
+START ANGLE	736		
+END ANGLE	802		
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		770		
+START ANGLE	764		
+END ANGLE	776		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		771		
+START ANGLE	759		
+END ANGLE	783		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		772		
+START ANGLE	769		
+END ANGLE	775		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		773		
+START ANGLE	723		
+END ANGLE	823		
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		774		
+START ANGLE	735		
+END ANGLE	813		
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		775		
+START ANGLE	771		
+END ANGLE	779		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		776		
+START ANGLE	771		
+END ANGLE	781		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		777		
+START ANGLE	751		
+END ANGLE	803		
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		778		
+START ANGLE	688		
+END ANGLE	868		
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		779		
+START ANGLE	758		
+END ANGLE	800		
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		780		
+START ANGLE	779		
+END ANGLE	781		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		781		
+START ANGLE	763		
+END ANGLE	799		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		782		
+START ANGLE	760		
+END ANGLE	804		
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		783		
+START ANGLE	772		
+END ANGLE	794		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		784		
+START ANGLE	778		
+END ANGLE	790		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		785		
+START ANGLE	757		
+END ANGLE	813		
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		786		
+START ANGLE	732		
+END ANGLE	840		
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		787		
+START ANGLE	770		
+END ANGLE	804		
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		788		
+START ANGLE	773		
+END ANGLE	803		
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		789		
+START ANGLE	758		
+END ANGLE	820		
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		790		
+START ANGLE	789		
+END ANGLE	791		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		791		
+START ANGLE	788		
+END ANGLE	794		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		792		
+START ANGLE	783		
+END ANGLE	801		
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		793		
+START ANGLE	770		
+END ANGLE	816		
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		794		
+START ANGLE	774		
+END ANGLE	814		
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		795		
+START ANGLE	773		
+END ANGLE	817		
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		796		
+START ANGLE	722		
+END ANGLE	870		
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		797		
+START ANGLE	710		
+END ANGLE	884		
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		798		
+START ANGLE	797		
+END ANGLE	799		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		799		
+START ANGLE	793		
+END ANGLE	805		
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		800		
+START ANGLE	755		
+END ANGLE	845		
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		801		
+START ANGLE	783		
+END ANGLE	819		
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		802		
+START ANGLE	772		
+END ANGLE	832		
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		803		
+START ANGLE	755		
+END ANGLE	851		
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		804		
+START ANGLE	800		
+END ANGLE	808		
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		805		
+START ANGLE	771		
+END ANGLE	839		
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		806		
+START ANGLE	800		
+END ANGLE	812		
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		807		
+START ANGLE	788		
+END ANGLE	826		
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		808		
+START ANGLE	728		
+END ANGLE	888		
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		809		
+START ANGLE	797		
+END ANGLE	821		
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		810		
+START ANGLE	621		
+END ANGLE	999		
+LENGTH		378		
+SUM			15330	
+---------------------
+ANGLE		811		
+START ANGLE	799		
+END ANGLE	823		
+LENGTH		24		
+SUM			1130	
+---------------------
+ANGLE		812		
+START ANGLE	732		
+END ANGLE	892		
+LENGTH		160		
+SUM			6631	
+---------------------
+ANGLE		813		
+START ANGLE	794		
+END ANGLE	832		
+LENGTH		38		
+SUM			1708	
+---------------------
+ANGLE		814		
+START ANGLE	808		
+END ANGLE	820		
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		815		
+START ANGLE	781		
+END ANGLE	849		
+LENGTH		68		
+SUM			2955	
+---------------------
+ANGLE		816		
+START ANGLE	812		
+END ANGLE	820		
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		817		
+START ANGLE	769		
+END ANGLE	865		
+LENGTH		96		
+SUM			4147	
+---------------------
+ANGLE		818		
+START ANGLE	788		
+END ANGLE	848		
+LENGTH		60		
+SUM			2625	
+---------------------
+ANGLE		819		
+START ANGLE	801		
+END ANGLE	837		
+LENGTH		36		
+SUM			1630	
+---------------------
+ANGLE		820		
+START ANGLE	775		
+END ANGLE	865		
+LENGTH		90		
+SUM			3901	
+---------------------
+ANGLE		821		
+START ANGLE	815		
+END ANGLE	827		
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		822		
+START ANGLE	821		
+END ANGLE	823		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		823		
+START ANGLE	736		
+END ANGLE	910		
+LENGTH		174		
+SUM			7142	
+---------------------
+ANGLE		824		
+START ANGLE	750		
+END ANGLE	898		
+LENGTH		148		
+SUM			6199	
+---------------------
+ANGLE		825		
+START ANGLE	803		
+END ANGLE	847		
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		826		
+START ANGLE	806		
+END ANGLE	846		
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		827		
+START ANGLE	804		
+END ANGLE	850		
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		828		
+START ANGLE	819		
+END ANGLE	837		
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		829		
+START ANGLE	826		
+END ANGLE	832		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		830		
+START ANGLE	829		
+END ANGLE	831		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		831		
+START ANGLE	800		
+END ANGLE	862		
+LENGTH		62		
+SUM			2725	
+---------------------
+ANGLE		832		
+START ANGLE	817		
+END ANGLE	847		
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		833		
+START ANGLE	816		
+END ANGLE	850		
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		834		
+START ANGLE	780		
+END ANGLE	888		
+LENGTH		108		
+SUM			4547	
+---------------------
+ANGLE		835		
+START ANGLE	807		
+END ANGLE	863		
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		836		
+START ANGLE	830		
+END ANGLE	842		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		837		
+START ANGLE	826		
+END ANGLE	848		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		838		
+START ANGLE	816		
+END ANGLE	860		
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		839		
+START ANGLE	821		
+END ANGLE	857		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		840		
+START ANGLE	839		
+END ANGLE	841		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		841		
+START ANGLE	820		
+END ANGLE	862		
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		842		
+START ANGLE	752		
+END ANGLE	932		
+LENGTH		180		
+SUM			7363	
+---------------------
+ANGLE		843		
+START ANGLE	817		
+END ANGLE	869		
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		844		
+START ANGLE	839		
+END ANGLE	849		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		845		
+START ANGLE	841		
+END ANGLE	849		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		846		
+START ANGLE	807		
+END ANGLE	885		
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		847		
+START ANGLE	797		
+END ANGLE	897		
+LENGTH		100		
+SUM			4182	
+---------------------
+ANGLE		848		
+START ANGLE	845		
+END ANGLE	851		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		849		
+START ANGLE	837		
+END ANGLE	861		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		850		
+START ANGLE	844		
+END ANGLE	856		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		851		
+START ANGLE	818		
+END ANGLE	884		
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		852		
+START ANGLE	832		
+END ANGLE	872		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		853		
+START ANGLE	763		
+END ANGLE	943		
+LENGTH		180		
+SUM			7373	
+---------------------
+ANGLE		854		
+START ANGLE	833		
+END ANGLE	875		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		855		
+START ANGLE	850		
+END ANGLE	860		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		856		
+START ANGLE	823		
+END ANGLE	889		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		857		
+START ANGLE	767		
+END ANGLE	947		
+LENGTH		180		
+SUM			7352	
+---------------------
+ANGLE		858		
+START ANGLE	851		
+END ANGLE	865		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		859		
+START ANGLE	840		
+END ANGLE	878		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		860		
+START ANGLE	848		
+END ANGLE	872		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		861		
+START ANGLE	856		
+END ANGLE	866		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		862		
+START ANGLE	821		
+END ANGLE	903		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		863		
+START ANGLE	858		
+END ANGLE	868		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		864		
+START ANGLE	840		
+END ANGLE	888		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		865		
+START ANGLE	828		
+END ANGLE	902		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		866		
+START ANGLE	855		
+END ANGLE	877		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		867		
+START ANGLE	823		
+END ANGLE	911		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		868		
+START ANGLE	778		
+END ANGLE	958		
+LENGTH		180		
+SUM			7368	
+---------------------
+ANGLE		869		
+START ANGLE	854		
+END ANGLE	884		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		870		
+START ANGLE	801		
+END ANGLE	939		
+LENGTH		138		
+SUM			5634	
+---------------------
+ANGLE		871		
+START ANGLE	799		
+END ANGLE	943		
+LENGTH		144		
+SUM			5896	
+---------------------
+ANGLE		872		
+START ANGLE	854		
+END ANGLE	890		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		873		
+START ANGLE	867		
+END ANGLE	879		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		874		
+START ANGLE	863		
+END ANGLE	885		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		875		
+START ANGLE	812		
+END ANGLE	938		
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		876		
+START ANGLE	840		
+END ANGLE	912		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		877		
+START ANGLE	873		
+END ANGLE	881		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		878		
+START ANGLE	827		
+END ANGLE	929		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		879		
+START ANGLE	867		
+END ANGLE	891		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		880		
+START ANGLE	864		
+END ANGLE	896		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		881		
+START ANGLE	875		
+END ANGLE	887		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		882		
+START ANGLE	859		
+END ANGLE	905		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		883		
+START ANGLE	878		
+END ANGLE	888		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		884		
+START ANGLE	870		
+END ANGLE	898		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		885		
+START ANGLE	878		
+END ANGLE	892		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		886		
+START ANGLE	870		
+END ANGLE	902		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		887		
+START ANGLE	884		
+END ANGLE	890		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		888		
+START ANGLE	867		
+END ANGLE	909		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		889		
+START ANGLE	863		
+END ANGLE	915		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		890		
+START ANGLE	888		
+END ANGLE	892		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		891		
+START ANGLE	883		
+END ANGLE	899		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		892		
+START ANGLE	883		
+END ANGLE	901		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		893		
+START ANGLE	889		
+END ANGLE	897		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		894		
+START ANGLE	879		
+END ANGLE	909		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		895		
+START ANGLE	878		
+END ANGLE	912		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		896		
+START ANGLE	889		
+END ANGLE	903		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		897		
+START ANGLE	884		
+END ANGLE	910		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		898		
+START ANGLE	888		
+END ANGLE	908		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		899		
+START ANGLE	839		
+END ANGLE	959		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		900		
+START ANGLE	801		
+END ANGLE	999		
+LENGTH		198		
+SUM			8090	
+---------------------
+ANGLE		901		
+START ANGLE	841		
+END ANGLE	961		
+LENGTH		120		
+SUM			4890	
+---------------------
+ANGLE		902		
+START ANGLE	892		
+END ANGLE	912		
+LENGTH		20		
+SUM			821		
+---------------------
+ANGLE		903		
+START ANGLE	890		
+END ANGLE	916		
+LENGTH		26		
+SUM			1047	
+---------------------
+ANGLE		904		
+START ANGLE	897		
+END ANGLE	911		
+LENGTH		14		
+SUM			608		
+---------------------
+ANGLE		905		
+START ANGLE	888		
+END ANGLE	922		
+LENGTH		34		
+SUM			1329	
+---------------------
+ANGLE		906		
+START ANGLE	891		
+END ANGLE	921		
+LENGTH		30		
+SUM			1193	
+---------------------
+ANGLE		907		
+START ANGLE	903		
+END ANGLE	911		
+LENGTH		8		
+SUM			415		
+---------------------
+ANGLE		908		
+START ANGLE	899		
+END ANGLE	917		
+LENGTH		18		
+SUM			737		
+---------------------
+ANGLE		909		
+START ANGLE	901		
+END ANGLE	917		
+LENGTH		16		
+SUM			664		
+---------------------
+ANGLE		910		
+START ANGLE	908		
+END ANGLE	912		
+LENGTH		4		
+SUM			252		
+---------------------
+ANGLE		911		
+START ANGLE	885		
+END ANGLE	937		
+LENGTH		52		
+SUM			2072	
+---------------------
+ANGLE		912		
+START ANGLE	891		
+END ANGLE	933		
+LENGTH		42		
+SUM			1674	
+---------------------
+ANGLE		913		
+START ANGLE	910		
+END ANGLE	916		
+LENGTH		6		
+SUM			337		
+---------------------
+ANGLE		914		
+START ANGLE	898		
+END ANGLE	930		
+LENGTH		32		
+SUM			1271	
+---------------------
+ANGLE		915		
+START ANGLE	908		
+END ANGLE	922		
+LENGTH		14		
+SUM			613		
+---------------------
+ANGLE		916		
+START ANGLE	902		
+END ANGLE	930		
+LENGTH		28		
+SUM			1160	
+---------------------
+ANGLE		917		
+START ANGLE	912		
+END ANGLE	922		
+LENGTH		10		
+SUM			468		
+---------------------
+ANGLE		918		
+START ANGLE	895		
+END ANGLE	941		
+LENGTH		46		
+SUM			1887	
+---------------------
+ANGLE		919		
+START ANGLE	913		
+END ANGLE	925		
+LENGTH		12		
+SUM			546		
+---------------------
+ANGLE		920		
+START ANGLE	904		
+END ANGLE	936		
+LENGTH		32		
+SUM			1353	
+---------------------
+ANGLE		921		
+START ANGLE	909		
+END ANGLE	933		
+LENGTH		24		
+SUM			1038	
+---------------------
+ANGLE		922		
+START ANGLE	871		
+END ANGLE	973		
+LENGTH		102		
+SUM			4097	
+---------------------
+ANGLE		923		
+START ANGLE	919		
+END ANGLE	927		
+LENGTH		8		
+SUM			409		
+---------------------
+ANGLE		924		
+START ANGLE	888		
+END ANGLE	960		
+LENGTH		72		
+SUM			2924	
+---------------------
+ANGLE		925		
+START ANGLE	862		
+END ANGLE	988		
+LENGTH		126		
+SUM			5142	
+---------------------
+ANGLE		926		
+START ANGLE	915		
+END ANGLE	937		
+LENGTH		22		
+SUM			992		
+---------------------
+ANGLE		927		
+START ANGLE	921		
+END ANGLE	933		
+LENGTH		12		
+SUM			598		
+---------------------
+ANGLE		928		
+START ANGLE	910		
+END ANGLE	946		
+LENGTH		36		
+SUM			1552	
+---------------------
+ANGLE		930		
+START ANGLE	861		
+END ANGLE	999		
+LENGTH		138		
+SUM			5584	
+---------------------
+ANGLE		931		
+START ANGLE	916		
+END ANGLE	946		
+LENGTH		30		
+SUM			1334	
+---------------------
+ANGLE		933		
+START ANGLE	889		
+END ANGLE	977		
+LENGTH		88		
+SUM			3583	
+---------------------
+ANGLE		934		
+START ANGLE	923		
+END ANGLE	945		
+LENGTH		22		
+SUM			1033	
+---------------------
+ANGLE		935		
+START ANGLE	898		
+END ANGLE	972		
+LENGTH		74		
+SUM			3040	
+---------------------
+ANGLE		936		
+START ANGLE	912		
+END ANGLE	960		
+LENGTH		48		
+SUM			2063	
+---------------------
+ANGLE		937		
+START ANGLE	932		
+END ANGLE	942		
+LENGTH		10		
+SUM			570		
+---------------------
+ANGLE		938		
+START ANGLE	897		
+END ANGLE	979		
+LENGTH		82		
+SUM			3377	
+---------------------
+ANGLE		939		
+START ANGLE	934		
+END ANGLE	944		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		940		
+START ANGLE	928		
+END ANGLE	952		
+LENGTH		24		
+SUM			1132	
+---------------------
+ANGLE		941		
+START ANGLE	922		
+END ANGLE	960		
+LENGTH		38		
+SUM			1702	
+---------------------
+ANGLE		942		
+START ANGLE	935		
+END ANGLE	949		
+LENGTH		14		
+SUM			721		
+---------------------
+ANGLE		944		
+START ANGLE	911		
+END ANGLE	977		
+LENGTH		66		
+SUM			2795	
+---------------------
+ANGLE		945		
+START ANGLE	940		
+END ANGLE	950		
+LENGTH		10		
+SUM			535		
+---------------------
+ANGLE		946		
+START ANGLE	925		
+END ANGLE	967		
+LENGTH		42		
+SUM			1881	
+---------------------
+ANGLE		948		
+START ANGLE	928		
+END ANGLE	968		
+LENGTH		40		
+SUM			1804	
+---------------------
+ANGLE		949		
+START ANGLE	916		
+END ANGLE	982		
+LENGTH		66		
+SUM			2830	
+---------------------
+ANGLE		950		
+START ANGLE	944		
+END ANGLE	956		
+LENGTH		12		
+SUM			618		
+---------------------
+ANGLE		951		
+START ANGLE	939		
+END ANGLE	963		
+LENGTH		24		
+SUM			1161	
+---------------------
+ANGLE		952		
+START ANGLE	949		
+END ANGLE	955		
+LENGTH		6		
+SUM			385		
+---------------------
+ANGLE		954		
+START ANGLE	915		
+END ANGLE	993		
+LENGTH		78		
+SUM			3326	
+---------------------
+ANGLE		955		
+START ANGLE	951		
+END ANGLE	959		
+LENGTH		8		
+SUM			471		
+---------------------
+ANGLE		956		
+START ANGLE	951		
+END ANGLE	961		
+LENGTH		10		
+SUM			569		
+---------------------
+ANGLE		957		
+START ANGLE	931		
+END ANGLE	983		
+LENGTH		52		
+SUM			2299	
+---------------------
+ANGLE		959		
+START ANGLE	938		
+END ANGLE	980		
+LENGTH		42		
+SUM			1883	
+---------------------
+ANGLE		960		
+START ANGLE	959		
+END ANGLE	961		
+LENGTH		2		
+SUM			221		
+---------------------
+ANGLE		961		
+START ANGLE	943		
+END ANGLE	979		
+LENGTH		36		
+SUM			1609	
+---------------------
+ANGLE		962		
+START ANGLE	940		
+END ANGLE	984		
+LENGTH		44		
+SUM			1954	
+---------------------
+ANGLE		963		
+START ANGLE	952		
+END ANGLE	974		
+LENGTH		22		
+SUM			1055	
+---------------------
+ANGLE		964		
+START ANGLE	958		
+END ANGLE	970		
+LENGTH		12		
+SUM			615		
+---------------------
+ANGLE		965		
+START ANGLE	937		
+END ANGLE	993		
+LENGTH		56		
+SUM			2473	
+---------------------
+ANGLE		967		
+START ANGLE	950		
+END ANGLE	984		
+LENGTH		34		
+SUM			1545	
+---------------------
+ANGLE		968		
+START ANGLE	953		
+END ANGLE	983		
+LENGTH		30		
+SUM			1374	
+---------------------
+ANGLE		969		
+START ANGLE	939		
+END ANGLE	999		
+LENGTH		60		
+SUM			2594	
+---------------------
+ANGLE		970		
+START ANGLE	969		
+END ANGLE	971		
+LENGTH		2		
+SUM			203		
+---------------------
+ANGLE		971		
+START ANGLE	968		
+END ANGLE	974		
+LENGTH		6		
+SUM			374		
+---------------------
+ANGLE		972		
+START ANGLE	963		
+END ANGLE	981		
+LENGTH		18		
+SUM			866		
+---------------------
+ANGLE		973		
+START ANGLE	950		
+END ANGLE	996		
+LENGTH		46		
+SUM			2049	
+---------------------
+ANGLE		974		
+START ANGLE	954		
+END ANGLE	994		
+LENGTH		40		
+SUM			1799	
+---------------------
+ANGLE		975		
+START ANGLE	953		
+END ANGLE	997		
+LENGTH		44		
+SUM			1963	
+---------------------
+ANGLE		978		
+START ANGLE	977		
+END ANGLE	979		
+LENGTH		2		
+SUM			198		
+---------------------
+ANGLE		979		
+START ANGLE	973		
+END ANGLE	985		
+LENGTH		12		
+SUM			631		
+---------------------
+ANGLE		981		
+START ANGLE	963		
+END ANGLE	999		
+LENGTH		36		
+SUM			1580	
+---------------------
+ANGLE		984		
+START ANGLE	980		
+END ANGLE	988		
+LENGTH		8		
+SUM			488		
+---------------------
+ANGLE		986		
+START ANGLE	980		
+END ANGLE	992		
+LENGTH		12		
+SUM			630		
+---------------------
+ANGLE		990		
+START ANGLE	981		
+END ANGLE	999		
+LENGTH		18		
+SUM			850		
+---------------------
