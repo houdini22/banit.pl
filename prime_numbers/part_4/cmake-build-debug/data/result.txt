@@ -1,0 +1,90 @@
+Size:	2		
+Count:	10		
+---------
+Size:	6		
+Count:	19		
+---------
+Size:	10		
+Count:	12		
+---------
+Size:	14		
+Count:	11		
+---------
+Size:	18		
+Count:	15		
+---------
+Size:	22		
+Count:	7		
+---------
+Size:	26		
+Count:	10		
+---------
+Size:	30		
+Count:	18		
+---------
+Size:	34		
+Count:	8		
+---------
+Size:	38		
+Count:	8		
+---------
+Size:	42		
+Count:	13		
+---------
+Size:	46		
+Count:	6		
+---------
+Size:	50		
+Count:	8		
+---------
+Size:	54		
+Count:	11		
+---------
+Size:	58		
+Count:	4		
+---------
+Size:	62		
+Count:	5		
+---------
+Size:	66		
+Count:	11		
+---------
+Size:	70		
+Count:	6		
+---------
+Size:	74		
+Count:	4		
+---------
+Size:	78		
+Count:	6		
+---------
+Size:	82		
+Count:	3		
+---------
+Size:	86		
+Count:	5		
+---------
+Size:	90		
+Count:	7		
+---------
+Size:	94		
+Count:	4		
+---------
+Size:	98		
+Count:	4		
+---------
+Size:	102		
+Count:	3		
+---------
+Size:	106		
+Count:	2		
+---------
+Size:	110		
+Count:	2		
+---------
+Size:	114		
+Count:	1		
+---------
+Size:	122		
+Count:	1		
+---------

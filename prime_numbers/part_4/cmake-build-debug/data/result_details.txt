@@ -1,0 +1,1046 @@
+Size:	2		
+Count:	10		
+___DETAILS___
+Below:	3
+Center:	4
+Upper:	5
+---
+Below:	5
+Center:	6
+Upper:	7
+---
+Below:	11
+Center:	12
+Upper:	13
+---
+Below:	17
+Center:	18
+Upper:	19
+---
+Below:	29
+Center:	30
+Upper:	31
+---
+Below:	41
+Center:	42
+Upper:	43
+---
+Below:	59
+Center:	60
+Upper:	61
+---
+Below:	71
+Center:	72
+Upper:	73
+---
+Below:	101
+Center:	102
+Upper:	103
+---
+Below:	107
+Center:	108
+Upper:	109
+---
+---------
+
+Size:	6		
+Count:	19		
+___DETAILS___
+Below:	5
+Center:	8
+Upper:	11
+---
+Below:	7
+Center:	10
+Upper:	13
+---
+Below:	11
+Center:	14
+Upper:	17
+---
+Below:	13
+Center:	16
+Upper:	19
+---
+Below:	17
+Center:	20
+Upper:	23
+---
+Below:	23
+Center:	26
+Upper:	29
+---
+Below:	31
+Center:	34
+Upper:	37
+---
+Below:	37
+Center:	40
+Upper:	43
+---
+Below:	41
+Center:	44
+Upper:	47
+---
+Below:	47
+Center:	50
+Upper:	53
+---
+Below:	53
+Center:	56
+Upper:	59
+---
+Below:	61
+Center:	64
+Upper:	67
+---
+Below:	67
+Center:	70
+Upper:	73
+---
+Below:	73
+Center:	76
+Upper:	79
+---
+Below:	83
+Center:	86
+Upper:	89
+---
+Below:	97
+Center:	100
+Upper:	103
+---
+Below:	101
+Center:	104
+Upper:	107
+---
+Below:	103
+Center:	106
+Upper:	109
+---
+Below:	107
+Center:	110
+Upper:	113
+---
+---------
+
+Size:	10		
+Count:	12		
+___DETAILS___
+Below:	3
+Center:	8
+Upper:	13
+---
+Below:	7
+Center:	12
+Upper:	17
+---
+Below:	13
+Center:	18
+Upper:	23
+---
+Below:	19
+Center:	24
+Upper:	29
+---
+Below:	31
+Center:	36
+Upper:	41
+---
+Below:	37
+Center:	42
+Upper:	47
+---
+Below:	43
+Center:	48
+Upper:	53
+---
+Below:	61
+Center:	66
+Upper:	71
+---
+Below:	73
+Center:	78
+Upper:	83
+---
+Below:	79
+Center:	84
+Upper:	89
+---
+Below:	97
+Center:	102
+Upper:	107
+---
+Below:	103
+Center:	108
+Upper:	113
+---
+---------
+
+Size:	14		
+Count:	11		
+___DETAILS___
+Below:	3
+Center:	10
+Upper:	17
+---
+Below:	5
+Center:	12
+Upper:	19
+---
+Below:	17
+Center:	24
+Upper:	31
+---
+Below:	23
+Center:	30
+Upper:	37
+---
+Below:	29
+Center:	36
+Upper:	43
+---
+Below:	47
+Center:	54
+Upper:	61
+---
+Below:	53
+Center:	60
+Upper:	67
+---
+Below:	59
+Center:	66
+Upper:	73
+---
+Below:	83
+Center:	90
+Upper:	97
+---
+Below:	89
+Center:	96
+Upper:	103
+---
+Below:	113
+Center:	120
+Upper:	127
+---
+---------
+
+Size:	18		
+Count:	15		
+___DETAILS___
+Below:	5
+Center:	14
+Upper:	23
+---
+Below:	11
+Center:	20
+Upper:	29
+---
+Below:	13
+Center:	22
+Upper:	31
+---
+Below:	19
+Center:	28
+Upper:	37
+---
+Below:	23
+Center:	32
+Upper:	41
+---
+Below:	29
+Center:	38
+Upper:	47
+---
+Below:	41
+Center:	50
+Upper:	59
+---
+Below:	43
+Center:	52
+Upper:	61
+---
+Below:	53
+Center:	62
+Upper:	71
+---
+Below:	61
+Center:	70
+Upper:	79
+---
+Below:	71
+Center:	80
+Upper:	89
+---
+Below:	79
+Center:	88
+Upper:	97
+---
+Below:	83
+Center:	92
+Upper:	101
+---
+Below:	89
+Center:	98
+Upper:	107
+---
+Below:	109
+Center:	118
+Upper:	127
+---
+---------
+
+Size:	22		
+Count:	7		
+___DETAILS___
+Below:	7
+Center:	18
+Upper:	29
+---
+Below:	19
+Center:	30
+Upper:	41
+---
+Below:	31
+Center:	42
+Upper:	53
+---
+Below:	37
+Center:	48
+Upper:	59
+---
+Below:	61
+Center:	72
+Upper:	83
+---
+Below:	67
+Center:	78
+Upper:	89
+---
+Below:	79
+Center:	90
+Upper:	101
+---
+---------
+
+Size:	26		
+Count:	10		
+___DETAILS___
+Below:	3
+Center:	16
+Upper:	29
+---
+Below:	5
+Center:	18
+Upper:	31
+---
+Below:	11
+Center:	24
+Upper:	37
+---
+Below:	17
+Center:	30
+Upper:	43
+---
+Below:	41
+Center:	54
+Upper:	67
+---
+Below:	47
+Center:	60
+Upper:	73
+---
+Below:	53
+Center:	66
+Upper:	79
+---
+Below:	71
+Center:	84
+Upper:	97
+---
+Below:	83
+Center:	96
+Upper:	109
+---
+Below:	101
+Center:	114
+Upper:	127
+---
+---------
+
+Size:	30		
+Count:	18		
+___DETAILS___
+Below:	7
+Center:	22
+Upper:	37
+---
+Below:	11
+Center:	26
+Upper:	41
+---
+Below:	13
+Center:	28
+Upper:	43
+---
+Below:	17
+Center:	32
+Upper:	47
+---
+Below:	23
+Center:	38
+Upper:	53
+---
+Below:	29
+Center:	44
+Upper:	59
+---
+Below:	31
+Center:	46
+Upper:	61
+---
+Below:	37
+Center:	52
+Upper:	67
+---
+Below:	41
+Center:	56
+Upper:	71
+---
+Below:	43
+Center:	58
+Upper:	73
+---
+Below:	53
+Center:	68
+Upper:	83
+---
+Below:	59
+Center:	74
+Upper:	89
+---
+Below:	67
+Center:	82
+Upper:	97
+---
+Below:	71
+Center:	86
+Upper:	101
+---
+Below:	73
+Center:	88
+Upper:	103
+---
+Below:	79
+Center:	94
+Upper:	109
+---
+Below:	83
+Center:	98
+Upper:	113
+---
+Below:	97
+Center:	112
+Upper:	127
+---
+---------
+
+Size:	34		
+Count:	8		
+___DETAILS___
+Below:	3
+Center:	20
+Upper:	37
+---
+Below:	7
+Center:	24
+Upper:	41
+---
+Below:	13
+Center:	30
+Upper:	47
+---
+Below:	19
+Center:	36
+Upper:	53
+---
+Below:	37
+Center:	54
+Upper:	71
+---
+Below:	67
+Center:	84
+Upper:	101
+---
+Below:	73
+Center:	90
+Upper:	107
+---
+Below:	79
+Center:	96
+Upper:	113
+---
+---------
+
+Size:	38		
+Count:	8		
+___DETAILS___
+Below:	3
+Center:	22
+Upper:	41
+---
+Below:	5
+Center:	24
+Upper:	43
+---
+Below:	23
+Center:	42
+Upper:	61
+---
+Below:	29
+Center:	48
+Upper:	67
+---
+Below:	41
+Center:	60
+Upper:	79
+---
+Below:	59
+Center:	78
+Upper:	97
+---
+Below:	71
+Center:	90
+Upper:	109
+---
+Below:	89
+Center:	108
+Upper:	127
+---
+---------
+
+Size:	42		
+Count:	13		
+___DETAILS___
+Below:	5
+Center:	26
+Upper:	47
+---
+Below:	11
+Center:	32
+Upper:	53
+---
+Below:	17
+Center:	38
+Upper:	59
+---
+Below:	19
+Center:	40
+Upper:	61
+---
+Below:	29
+Center:	50
+Upper:	71
+---
+Below:	31
+Center:	52
+Upper:	73
+---
+Below:	37
+Center:	58
+Upper:	79
+---
+Below:	41
+Center:	62
+Upper:	83
+---
+Below:	47
+Center:	68
+Upper:	89
+---
+Below:	59
+Center:	80
+Upper:	101
+---
+Below:	61
+Center:	82
+Upper:	103
+---
+Below:	67
+Center:	88
+Upper:	109
+---
+Below:	71
+Center:	92
+Upper:	113
+---
+---------
+
+Size:	46		
+Count:	6		
+___DETAILS___
+Below:	7
+Center:	30
+Upper:	53
+---
+Below:	13
+Center:	36
+Upper:	59
+---
+Below:	37
+Center:	60
+Upper:	83
+---
+Below:	43
+Center:	66
+Upper:	89
+---
+Below:	61
+Center:	84
+Upper:	107
+---
+Below:	67
+Center:	90
+Upper:	113
+---
+---------
+
+Size:	50		
+Count:	8		
+___DETAILS___
+Below:	3
+Center:	28
+Upper:	53
+---
+Below:	11
+Center:	36
+Upper:	61
+---
+Below:	17
+Center:	42
+Upper:	67
+---
+Below:	23
+Center:	48
+Upper:	73
+---
+Below:	29
+Center:	54
+Upper:	79
+---
+Below:	47
+Center:	72
+Upper:	97
+---
+Below:	53
+Center:	78
+Upper:	103
+---
+Below:	59
+Center:	84
+Upper:	109
+---
+---------
+
+Size:	54		
+Count:	11		
+___DETAILS___
+Below:	5
+Center:	32
+Upper:	59
+---
+Below:	7
+Center:	34
+Upper:	61
+---
+Below:	13
+Center:	40
+Upper:	67
+---
+Below:	17
+Center:	44
+Upper:	71
+---
+Below:	19
+Center:	46
+Upper:	73
+---
+Below:	29
+Center:	56
+Upper:	83
+---
+Below:	43
+Center:	70
+Upper:	97
+---
+Below:	47
+Center:	74
+Upper:	101
+---
+Below:	53
+Center:	80
+Upper:	107
+---
+Below:	59
+Center:	86
+Upper:	113
+---
+Below:	73
+Center:	100
+Upper:	127
+---
+---------
+
+Size:	58		
+Count:	4		
+___DETAILS___
+Below:	3
+Center:	32
+Upper:	61
+---
+Below:	13
+Center:	42
+Upper:	71
+---
+Below:	31
+Center:	60
+Upper:	89
+---
+Below:	43
+Center:	72
+Upper:	101
+---
+---------
+
+Size:	62		
+Count:	5		
+___DETAILS___
+Below:	5
+Center:	36
+Upper:	67
+---
+Below:	11
+Center:	42
+Upper:	73
+---
+Below:	17
+Center:	48
+Upper:	79
+---
+Below:	41
+Center:	72
+Upper:	103
+---
+Below:	47
+Center:	78
+Upper:	109
+---
+---------
+
+Size:	66		
+Count:	11		
+___DETAILS___
+Below:	5
+Center:	38
+Upper:	71
+---
+Below:	7
+Center:	40
+Upper:	73
+---
+Below:	13
+Center:	46
+Upper:	79
+---
+Below:	17
+Center:	50
+Upper:	83
+---
+Below:	23
+Center:	56
+Upper:	89
+---
+Below:	31
+Center:	64
+Upper:	97
+---
+Below:	37
+Center:	70
+Upper:	103
+---
+Below:	41
+Center:	74
+Upper:	107
+---
+Below:	43
+Center:	76
+Upper:	109
+---
+Below:	47
+Center:	80
+Upper:	113
+---
+Below:	61
+Center:	94
+Upper:	127
+---
+---------
+
+Size:	70		
+Count:	6		
+___DETAILS___
+Below:	3
+Center:	38
+Upper:	73
+---
+Below:	13
+Center:	48
+Upper:	83
+---
+Below:	19
+Center:	54
+Upper:	89
+---
+Below:	31
+Center:	66
+Upper:	101
+---
+Below:	37
+Center:	72
+Upper:	107
+---
+Below:	43
+Center:	78
+Upper:	113
+---
+---------
+
+Size:	74		
+Count:	4		
+___DETAILS___
+Below:	5
+Center:	42
+Upper:	79
+---
+Below:	23
+Center:	60
+Upper:	97
+---
+Below:	29
+Center:	66
+Upper:	103
+---
+Below:	53
+Center:	90
+Upper:	127
+---
+---------
+
+Size:	78		
+Count:	6		
+___DETAILS___
+Below:	5
+Center:	44
+Upper:	83
+---
+Below:	11
+Center:	50
+Upper:	89
+---
+Below:	19
+Center:	58
+Upper:	97
+---
+Below:	23
+Center:	62
+Upper:	101
+---
+Below:	29
+Center:	68
+Upper:	107
+---
+Below:	31
+Center:	70
+Upper:	109
+---
+---------
+
+Size:	82		
+Count:	3		
+___DETAILS___
+Below:	7
+Center:	48
+Upper:	89
+---
+Below:	19
+Center:	60
+Upper:	101
+---
+Below:	31
+Center:	72
+Upper:	113
+---
+---------
+
+Size:	86		
+Count:	5		
+___DETAILS___
+Below:	3
+Center:	46
+Upper:	89
+---
+Below:	11
+Center:	54
+Upper:	97
+---
+Below:	17
+Center:	60
+Upper:	103
+---
+Below:	23
+Center:	66
+Upper:	109
+---
+Below:	41
+Center:	84
+Upper:	127
+---
+---------
+
+Size:	90		
+Count:	7		
+___DETAILS___
+Below:	7
+Center:	52
+Upper:	97
+---
+Below:	11
+Center:	56
+Upper:	101
+---
+Below:	13
+Center:	58
+Upper:	103
+---
+Below:	17
+Center:	62
+Upper:	107
+---
+Below:	19
+Center:	64
+Upper:	109
+---
+Below:	23
+Center:	68
+Upper:	113
+---
+Below:	37
+Center:	82
+Upper:	127
+---
+---------
+
+Size:	94		
+Count:	4		
+___DETAILS___
+Below:	3
+Center:	50
+Upper:	97
+---
+Below:	7
+Center:	54
+Upper:	101
+---
+Below:	13
+Center:	60
+Upper:	107
+---
+Below:	19
+Center:	66
+Upper:	113
+---
+---------
+
+Size:	98		
+Count:	4		
+___DETAILS___
+Below:	3
+Center:	52
+Upper:	101
+---
+Below:	5
+Center:	54
+Upper:	103
+---
+Below:	11
+Center:	60
+Upper:	109
+---
+Below:	29
+Center:	78
+Upper:	127
+---
+---------
+
+Size:	102		
+Count:	3		
+___DETAILS___
+Below:	5
+Center:	56
+Upper:	107
+---
+Below:	7
+Center:	58
+Upper:	109
+---
+Below:	11
+Center:	62
+Upper:	113
+---
+---------
+
+Size:	106		
+Count:	2		
+___DETAILS___
+Below:	3
+Center:	56
+Upper:	109
+---
+Below:	7
+Center:	60
+Upper:	113
+---
+---------
+
+Size:	110		
+Count:	2		
+___DETAILS___
+Below:	3
+Center:	58
+Upper:	113
+---
+Below:	17
+Center:	72
+Upper:	127
+---
+---------
+
+Size:	114		
+Count:	1		
+___DETAILS___
+Below:	13
+Center:	70
+Upper:	127
+---
+---------
+
+Size:	122		
+Count:	1		
+___DETAILS___
+Below:	5
+Center:	66
+Upper:	127
+---
+---------
+
